@@ -1,0 +1,501 @@
+﻿Movie_Name,genres,actor_1_name,Polarity,Subjectivity,actor_2_name,Imdb Score
+Avatar,Action|Adventure|Fantasy|Sci-Fi,CCH Pounder,0.042204505,0.133943589,Joel David Moore,7.9
+Pirates of the Caribbean: At World's End,Action|Adventure|Fantasy,Johnny Depp,0.048373799,0.401739183,Orlando Bloom,7.1
+Spectre,Action|Adventure|Thriller,Christoph Waltz,0.058316864,0.222754395,Rory Kinnear,6.8
+The Dark Knight Rises,Action|Thriller,Tom Hardy,-0.113377463,0.455952381,Christian Bale,8.5
+Star Wars: Episode VII - The Force Awakens            ,Documentary,Doug Walker,0.020534587,0.111038961,Rob Walker,7.1
+John Carter,Action|Adventure|Sci-Fi,Daryl Sabara,-0.072916667,0.135416667,Samantha Morton,6.6
+Spider-Man 3,Action|Adventure|Romance,J.K. Simmons,0.022531334,0.285096424,James Franco,6.2
+Tangled,Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance,Brad Garrett,0.100950125,0.262749577,Donna Murphy,7.8
+Avengers: Age of Ultron,Action|Adventure|Sci-Fi,Chris Hemsworth,0.046405965,0.208359012,Robert Downey Jr.,7.5
+Harry Potter and the Half-Blood Prince,Adventure|Family|Fantasy|Mystery,Alan Rickman,-0.104741616,0.222904556,Daniel Radcliffe,7.5
+Batman v Superman: Dawn of Justice,Action|Adventure|Sci-Fi,Henry Cavill,0.072590909,0.185909859,Lauren Cohan,6.9
+Superman Returns,Action|Adventure|Sci-Fi,Kevin Spacey,0.063738084,0.241400688,Marlon Brando,6.1
+Quantum of Solace,Action|Adventure,Giancarlo Giannini,0.027805289,0.285739845,Mathieu Amalric,6.7
+Total Dhamaal,Comedy | U,Ajay Devgn,0.035010633,0.550308347,Anil Kapoor,4.3
+Dabangg 3,Action| Romance| Thriller | UA,Salman Khan,0.083868822,0.250503923,Sonakshi Sinha,7.7
+The Body,Drama | UA,Emraan Hashmi| r| Vedhika| Sobhita Dhulipala,0.076334174,0.313308686,Rishi Kapoor,5.6
+Veerappan,Action|Biography|Crime,Sachiin Joshi||Usha Jadhav|Nissar Khan|,0.026834305,0.186188047,Sandeep Bharadwaj,5.3
+Do Lafzon Ki Kahani,Action|Drama|Romance,Kajal Aggarwal||Randeep Hooda|Snehal Kulshreshtha|Mamik Singh|,0.029166667,0.0875,Anil George,6.4
+Mardaani 2,Action| Crime| Thriller | UA,Rani Mukerji| | Rajesh Sharma| Jisshu Sengupta| Deepika Amin| Vikram Singh Chauhan| Vishal Jethwa,0.12790708,0.243471553,Shruti Bapna,6.8
+Pati Patni Aur Woh,Comedy| Romance | UA,Kartik Aaryan| r| Ananya Panday| Aparshakti Khurana| Rajesh Sharma| K.K. Raina| Navni Parihar| Ankita Goraya,0.069213411,0.199801204,Bhumi Pedneka,6.8
+X Ray: The Inner Image,Drama| Thriller | A,Rahul Sharma| ,0.183333333,0.401851852,Yashika Kapoor,5.2
+Yeh Saali Aashiqui,Romance| Thriller | A,Vardhan Puri| | Jessey Lever,0.19279591,0.355116484,Shivaleeka Oberoi,6.4
+Dosti Zindabad,Drama | UA,Dev Sharma| | Shakti Kapoor| Mohan Joshi| Ayub Khan| Kiran Kumar| Ehsaan Khan| Abbas Khan| Sabiha Attarwala| Rahul Choudhari| Rajiv Nigam,0.5,0.6,Sakshi Maggo,3.6
+Pagalpanti,Comedy| Action | UA,John Abraham| z| Urvashi Rautela| Anil Kapoor| Arshad Warsi| Pulkit Samrat| Kriti Kharbanda| Saurabh Shukla| Innamulhaq,0.174690356,0.307937761,Ileana D Cruz,5
+Motichoor Chaknachoor,Comedy| Romance | UA,Nawazuddin Siddiqui| | Vibha Chibber| Navni Parihar| Sanjeev Vatsa| Bhumika Dube| Devansh Kumar| Usha Nagar,0.192613636,0.267739899,Athiya Shetty,5.8
+Phobia,Drama|Mystery|Thriller,Radhika Apte||Nivedita Bhattacharya|Yashaswini Dayama|Satyadeep Misra|Arush Nand|,-0.028963661,0.314401104,Amrita Bagchi,6.9
+Marjaavaan,Action| Drama | UA,Riteish Deshmukh| | Tara Sutaria| Rakul Preet Singh| Nushrat Bharucha| Ravi Kishan| Shaad Randhawa| Bikramjeet Kanwarpal,0.021617647,0.292336601,Sidharth Malhotra,5.6
+Pirates of the Caribbean: Dead Man's Chest,Action|Adventure|Fantasy,Johnny Depp,-0.027748923,0.469665666,Orlando Bloom,7.3
+The Lone Ranger,Action|Adventure|Western,Johnny Depp,0.051003092,0.190510043,Ruth Wilson,6.5
+Man of Steel,Action|Adventure|Fantasy|Sci-Fi,Henry Cavill,0.080809325,0.266541083,Christopher Meloni,7.2
+The Chronicles of Narnia: Prince Caspian,Action|Adventure|Family|Fantasy,Peter Dinklage,0.04004943,0.171905222,Pierfrancesco Favino,6.6
+The Avengers,Action|Adventure|Sci-Fi,Chris Hemsworth,0.081881292,0.271648278,Robert Downey Jr.,8.1
+Pirates of the Caribbean: On Stranger Tides,Action|Adventure|Fantasy,Johnny Depp,0.007063536,0.460350226,Sam Claflin,6.7
+Men in Black 3,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Will Smith,-0.080255355,0.337389805,Michael Stuhlbarg,6.8
+The Hobbit: The Battle of the Five Armies,Adventure|Fantasy,Aidan Turner,0.053514412,0.167947154,Adam Brown,7.5
+The Amazing Spider-Man,Action|Adventure|Fantasy,Emma Stone,0.101417248,0.284116665,Andrew Garfield,7
+Robin Hood,Action|Adventure|Drama|History,Mark Addy,0.054293813,0.20012655,William Hurt,6.7
+The Hobbit: The Desolation of Smaug,Adventure|Fantasy,Aidan Turner,0.042038308,0.110777587,Adam Brown,7.9
+The Golden Compass,Adventure|Family|Fantasy,Christopher Lee,0.211635123,0.443265684,Eva Green,6.1
+King Kong,Action|Adventure|Drama|Romance,Naomi Watts,0.055249909,0.243759743,Thomas Kretschmann,7.2
+Titanic,Drama|Romance,Leonardo DiCaprio,0.045182851,0.219977794,Kate Winslet,7.7
+Captain America: Civil War,Action|Adventure|Sci-Fi,Robert Downey Jr.,0.058612829,0.231845982,Scarlett Johansson,8.2
+Battleship,Action|Adventure|Sci-Fi|Thriller,Liam Neeson,0.038810247,0.216410358,Alexander Skarsg ¥rd,5.9
+Jurassic World,Action|Adventure|Sci-Fi|Thriller,Bryce Dallas Howard,0.041733326,0.220283368,Judy Greer,7
+Skyfall,Action|Adventure|Thriller,Albert Finney,0.140764585,0.295082721,Helen McCrory,7.8
+Spider-Man 2,Action|Adventure|Fantasy|Romance,J.K. Simmons,0.03840247,0.256967153,James Franco,7.3
+Iron Man 3,Action|Adventure|Sci-Fi,Robert Downey Jr.,0.067621797,0.278635842,Jon Favreau,7.2
+Alice in Wonderland,Adventure|Family|Fantasy,Johnny Depp,0.056853456,0.240132542,Alan Rickman,6.5
+X-Men: The Last Stand,Action|Adventure|Fantasy|Sci-Fi|Thriller,Hugh Jackman,-0.013312166,0.199077911,Kelsey Grammer,6.8
+Monsters University,Adventure|Animation|Comedy|Family|Fantasy,Steve Buscemi,0.075154011,0.249475093,Tyler Labine,7.3
+Transformers: Revenge of the Fallen,Action|Adventure|Sci-Fi,Glenn Morshower,-0.002099116,0.177971117,Kevin Dunn,6
+Transformers: Age of Extinction,Action|Adventure|Sci-Fi,Bingbing Li,-0.198779762,0.497480159,Sophia Myles,5.7
+Oz the Great and Powerful,Adventure|Family|Fantasy,Tim Holmes,0.533988619,0.616546339,Mila Kunis,6.4
+The Amazing Spider-Man 2,Action|Adventure|Fantasy|Sci-Fi,Emma Stone,0.026845005,0.281035555,Andrew Garfield,6.7
+TRON: Legacy,Action|Adventure|Sci-Fi,Jeff Bridges,0.096779991,0.224930005,Olivia Wilde,6.8
+Cars 2,Adventure|Animation|Comedy|Family|Sport,Joe Mantegna,0.053377204,0.256053163,Thomas Kretschmann,6.3
+Green Lantern,Action|Adventure|Sci-Fi,Ryan Reynolds,-0.067853778,0.343244348,Temuera Morrison,5.6
+Toy Story 3,Adventure|Animation|Comedy|Family|Fantasy,Tom Hanks,0.068438616,0.227021328,John Ratzenberger,8.3
+Terminator Salvation,Action|Adventure|Sci-Fi,Christian Bale,0.000943001,0.272069264,Bryce Dallas Howard,6.6
+Furious 7,Action|Crime|Thriller,Jason Statham,0.100374176,0.374684367,Paul Walker,7.2
+World War Z,Action|Adventure|Horror|Sci-Fi|Thriller,Peter Capaldi,0.038829811,0.22956718,Brad Pitt,7
+X-Men: Days of Future Past,Action|Adventure|Fantasy|Sci-Fi|Thriller,Jennifer Lawrence,-0.08573595,0.314898408,Peter Dinklage,8
+Star Trek Into Darkness,Action|Adventure|Sci-Fi,Benedict Cumberbatch,-0.033107864,0.374552834,Bruce Greenwood,7.8
+Jhalki,Drama | UA,Boman Irani| | Divya Dutta| Yatin Karyekar| Govind Namdeo| Sanjay Suri| Akhilendra Mishra| Arti Jha,-0.05429198,0.399843358,Tannishtha Chatterjee,5
+Satellite Shankar,Action| Drama | UA,Sooraj Pancholi|| Megha Akash,0.275595238,0.306944444, Palomi Ghosh,4.6
+Bypass Road,Thriller | UA,Neil Nitin Mukesh|| Sudhanshu Pandey| Rajit Kapoor| Gul Panag| Shama Sikander,0.018530506,0.216095779, Adah Sharma,7.1
+Ujda Chaman,Drama| Comedy | UA,Sunny Singh|| Karishma Sharma| Saurabh Shukla| Atul Kumar| Grusha Kapoor| Sharib Hashmi,0.203445166,0.29047619, Maanvi Gagroo,8.1
+Made In China,Comedy| Drama | UA,Rajkummar Rao| | Boman Irani| Sumeet Vyas| Manoj Joshi| Amyra Dastur| Gajraj Rao| Paresh Rawal,0.020606421,0.21732046,Mouni Roy,6.3
+Housefull 4,Comedy| Drama | UA,Akshay Kumar| | Boman Irani| Bobby Deol| Kriti Sanon| Pooja Hegde| Kriti Kharbanda| Nawazuddin Siddiqui| Johnny Lever| Chunky Pandey| Nana Patekar,0.092233302,0.184121904,Riteish Deshmukh,3.3
+Sarbjit,Biography|Drama,Randeep Hooda||Richa Chadha|Darshan Kumaar|Shiwani Saini|Ankita Shrivastav|Ankur Bhatia|Arbaaz Ali Khan|,0.142439451,0.312466754,Aishwarya Rai Bachchan,7.2
+Kirket,Drama | UA,Kirti _Azad| | Sachin Chhabra| Sonu Jha| Dev Singh,-0.013462963,0.278277778,Vishal Tiwari,5
+Junction Varanasi,Drama | UA,Dev Sharma| | Zarina Wahab| Anupam Shyam| Subrat Dutta| Shubhangi Latkar| Anjali Abrol,-0.010416667,0.03125,Govind Namdeo,5.2
+Laal Kaptaan,Drama| Action | A,Saif Ali Khan| | Deepak Dobriyal| Manav Vij,0.097742733,0.20946712,Zoya Hussain,5.8
+Hum Chaar,Drama | UA,Prit Kamani| | Tushar Pandey| Simran Sharma,0.038690476,0.210912698,Anshuman Malhotra,5.6
+Kandy Twist,Drama| Crime | UA,Adi Irani|| Shiva Rindani| Ashish Mishra,0.068181818,0.25, Divya Singh,4.4
+War,Action| Thriller | UA,Hrithik Roshan| | Vaani Kapoor| Ashutosh Rana,0.063015339,0.218948452,Tiger Shroff,6.8
+Prassthanam,Drama| Action| Crime | UA,Sanjay Dutt| Manisha Koirala| | Chunky Pandey| Ali Fazal| Amyra Dastur| Satyajeet Dubey,0.362962963,0.439814815,Jackie Shroff,6
+Pal Pal Dil Ke Paas,Drama| Romance | UA,Karan Deol| Saher Bamba| Sachin Khedekar| ,0.16125,0.248541667,Aakash Ahuja,4.6
+The Zoya Factor,Romance| Comedy | U,Sonam Kapoor| | Sanjay Kapoor| Angad Bedi| Sikander Kher| Manu Rishi Chadha| Koel Purie,0.10525,0.302583333,Dulquer Salmaan,4.1
+Section 375,Drama| Thriller | UA,Richa Chadha| | Rahul Bhat| Meera Chopra| Kumud Mishra| Atul Kulkarni,0.100903775,0.226967039,Akshaye Khanna,8.4
+Pranaam,Action| Crime | UA,Rajeev Khandelwal|  Atul Kulkarni| Vikram Gokhale| Abhimanyu Singh| Aniruddh Dave| Apoorva Arora,0.19544059,0.27865789,Sameksha Singh|,7
+Jabariya Jodi,Action| Comedy| Romance | UA,Sidharth Malhotra| Parineeti Chopra| Sanjay Mishra| | Ruslaan Mumtaz| Chandan Roy Sanyal| Sheeba Chaddha| Jaaved Jaaferi,0.196969697,0.302121212,Aparshakti Khurana,4.2
+Chicken Curry Law,Drama | A,Natalia Janoszek| | Nivedita Bhattacharya| Mukesh Hariawala| Zakir Hussain| Aman Verma,-0.091333333,0.603666667,Ashutosh Rana,6
+Jack the Giant Slayer,Adventure|Fantasy,Eddie Marsan,0.041611296,0.830454042,Ewen Bremner,6.3
+The Great Gatsby,Drama|Romance,Leonardo DiCaprio,0.566671586,0.599098124,Elizabeth Debicki,7.3
+Prince of Persia: The Sands of Time,Action|Adventure|Fantasy|Romance,Jake Gyllenhaal,-0.014354947,0.1997679,Richard Coyle,6.6
+Pacific Rim,Action|Adventure|Sci-Fi,Charlie Hunnam,0.079439022,0.277893772,Clifton Collins Jr.,7
+Transformers: Dark of the Moon,Action|Adventure|Sci-Fi,Glenn Morshower,-0.036240115,0.393477128,Lester Speight,6.3
+Indiana Jones and the Kingdom of the Crystal Skull,Action|Adventure|Fantasy,Harrison Ford,-0.020497749,0.203539038,Ray Winstone,6.2
+The Good Dinosaur,Adventure|Animation|Comedy|Family|Fantasy,A.J. Buckley,0.435859263,0.537429461,Jack McGraw,6.8
+Brave,Adventure|Animation|Comedy|Family|Fantasy,Kelly Macdonald,0.468775809,0.736484127,John Ratzenberger,7.2
+Star Trek Beyond,Action|Adventure|Sci-Fi|Thriller,Sofia Boutella,0.081465132,0.307555322,Melissa Roxburgh,7.5
+WALL·E,Adventure|Animation|Family|Sci-Fi,John Ratzenberger,0.051222904,0.197378309,Fred Willard,8.4
+Rush Hour 3,Action|Comedy|Crime|Thriller,Tzi Ma,0.041476726,0.222163479,Dana Ivey,6.2
+2012,Action|Adventure|Sci-Fi,Oliver Platt,0.071933923,0.242753436,Liam James,5.8
+A Christmas Carol,Animation|Drama|Family|Fantasy,Robin Wright,0.072176217,0.239812381,Colin Firth,6.8
+Jupiter Ascending,Action|Adventure|Sci-Fi,Channing Tatum,0.055918682,0.248598662,Mila Kunis,5.4
+The Legend of Tarzan,Action|Adventure|Drama|Romance,Christoph Waltz,0.117935305,0.246961179,Alexander Skarsg ¥rd,6.6
+The Chronicles of Narnia: The Lion| the Witch and the Wardrobe,Adventure|Family|Fantasy,Jim Broadbent,0.030147059,0.064583333,Kiran Shah,6.9
+X-Men: Apocalypse,Action|Adventure|Sci-Fi,Jennifer Lawrence,0.05689547,0.260365201,Michael Fassbender,7.3
+Up,Adventure|Animation|Comedy|Family,John Ratzenberger,0.065819253,0.275650536,Delroy Lindo,8.3
+Monsters vs. Aliens,Action|Adventure|Animation|Comedy|Family|Sci-Fi,Amy Poehler,-0.160975898,0.608518862,Rainn Wilson,6.5
+Iron Man,Action|Adventure|Sci-Fi,Robert Downey Jr.,0.074863403,0.219220422,Jeff Bridges,7.9
+Hugo,Adventure|Drama|Family|Mystery,Chlo  Grace Moretz,0.065624369,0.244974025,Christopher Lee,7.5
+Wild Wild West,Action|Comedy|Sci-Fi|Western,Will Smith,0.090302955,0.368088498,Salma Hayek,4.8
+The Mummy: Tomb of the Dragon Emperor,Action|Adventure|Fantasy|Horror|Thriller,Jet Li,-0.016666667,0.121428571,Brendan Fraser,5.2
+Suicide Squad,Action|Adventure|Comedy|Sci-Fi,Will Smith,0.076673817,0.285444475,Robin Atkin Downes,6.9
+Evan Almighty,Comedy|Family|Fantasy,Jimmy Bennett,0.060514812,0.202770351,Morgan Freeman,5.4
+Edge of Tomorrow,Action|Adventure|Sci-Fi,Tom Cruise,0.084183302,0.23115539,Lara Pulver,7.9
+Waterworld,Action|Adventure|Sci-Fi|Thriller,Jeanne Tripplehorn,0.041633977,0.23533213,Rick Aviles,6.1
+G.I. Joe: The Rise of Cobra,Action|Adventure|Sci-Fi|Thriller,Joseph Gordon-Levitt,0.068181818,0.21010101,Dennis Quaid,5.8
+Inside Out,Adventure|Animation|Comedy|Drama|Family|Fantasy,Amy Poehler,0.065926535,0.274893187,Mindy Kaling,8.3
+The Jungle Book,Adventure|Drama|Family|Fantasy,Scarlett Johansson,0.097453327,0.265492184,Bill Murray,7.8
+Iron Man 2,Action|Adventure|Sci-Fi,Robert Downey Jr.,0.032928644,0.29942077,Scarlett Johansson,7
+Snow White and the Huntsman,Action|Adventure|Drama|Fantasy,Chris Hemsworth,0.012006446,0.113327347,Kristen Stewart,6.1
+Maleficent,Action|Adventure|Family|Fantasy|Romance,Angelina Jolie Pitt,0.007013333,0.260196339,Sharlto Copley,7
+Dawn of the Planet of the Apes,Action|Adventure|Drama|Sci-Fi,Gary Oldman,0.081802077,0.214188441,Judy Greer,7.6
+The Lovers,Action|Adventure|Romance|Sci-Fi,Tamsin Egerton,0.147802663,0.285036406,Alice Englert,4.5
+47 Ronin,Action|Adventure|Drama|Fantasy,Keanu Reeves,0.046035427,0.136892062,Cary-Hiroyuki Tagawa,6.3
+Mushkil,Horror| Thriller | A,Kunaal Roy Kapur| | Nazia Hussain| Pooja Bisht| Archana Shastry,0.054890639,0.171530983,Rajneesh Duggal,4.2
+Khandaani Shafakhana,Drama| Comedy | UA,Sonakshi Sinha| | Annu Kapoor| Badshah| Kulbhushan Kharbanda,-0.125,0.208333333,Varun Sharma,6.2
+Chhichhore,Drama| Romance| Comedy | UA,Sushant Singh Rajput|  Prateik Babbar| Varun Sharma| Tahir Raj Bhasin| Amir Khan,0.15357872,0.280904939,Shraddha Kapoor|,7.2
+Saaho,Action| Thriller| Romance | UA,Prabhas| | Shraddha Kapoor| Jackie Shroff| Tinnu Anand| Arun Vijay| Chunky Pandey| Mandira Bedi| Amit Sharma| Mahesh Manjrekar| Murli Sharma,0.249666667,0.284666667,Neil Nitin Mukesh,5.5
+Batla House,Drama| Thriller| History | UA,John Abraham| | Manish Chaudhary| Rajesh Sharma| Abdul Quadir Amin| Ravi Kishan| Nora Fatehi,-0.025494527,0.305879667,Mrunal Thakur,7.3
+Judgementall Hai Kya,Comedy| Thriller | UA,Rajkummar Rao| | Jimmy Sheirgill| Amyra Dastur,0.072916667,0.211458333,Kangana Ranaut,6
+Arjun Patiala,Action| Comedy | UA,Kriti Sanon| Varun Sharma| Ronit Roy| Sunny Leone,0.05,0.216666667, Diljit Dosanjh|,4.1
+Hyderabad Nawabs 2,Drama | UA,Aziz Naser| | Gullu Dada| Akbar Bin Tabar| Farha Fatima Khan| R.K Mama,0.425,0.575,Ali Reza,6.2
+Student Of The Year 2,Drama| Romance| Sport | UA,Tiger Shroff| | Samir Soni| Tara Sutaria| Rajesh Kumar| Aditya Seal,0.003066378,0.197594998,Ananya Panday,2.5
+Family Of Thakurganj,Drama| Action | UA,Saurabh Shukla| | Mahie Gill| Supriya Pilgaonkar| Mukesh Tiwari| Sudhir Pandey| Pavan Malhotra| Yashpal Sharma| Nandish Singh,0.375,0.5,Jimmy Sheirgill,9.4
+Super 30,Drama| Biography | U,Hrithik Roshan|| Aditya Shrivastava| Pankaj Tripathi| Virendra Saxena| Ali Haji| Nandish Singh| Kiran Khoje,0.206761443,0.503639322, Mrunal Thakur,8.2
+Malaal,Romance| Drama | UA,Sharmin Segal| | Sameer Dharmadhikari,0.077797619,0.155575397,Meezaan,6.4
+One Day: Justice Delivered,Drama| Thriller | UA,Anupam Kher| | Esha Gupta| Zakir Hussain| Zarina Wahab| Rajesh Sharma| Murli Sharma,0.125223214,0.294866071,Kumud Mishra,6.8
+Captain America: The Winter Soldier,Action|Adventure|Sci-Fi,Scarlett Johansson,0.118572771,0.213219934,Chris Evans,7.8
+Shrek Forever After,Adventure|Animation|Comedy|Family|Fantasy,Jon Hamm,0.04613932,0.175655932,Kathy Griffin,6.4
+Tomorrowland,Action|Adventure|Family|Mystery|Sci-Fi,Judy Greer,0.075443443,0.17863736,Chris Bauer,6.5
+Big Hero 6,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,Damon Wayans Jr.,0.057844424,0.233769238,Daniel Henney,7.9
+Wreck-It Ralph,Adventure|Animation|Comedy|Family|Sci-Fi,Jack McBrayer,0.066101433,0.21910965,Sarah Silverman,7.8
+The Polar Express,Adventure|Animation|Family|Fantasy,Tom Hanks,-0.050436795,0.294395967,Eddie Deezen,6.6
+Independence Day: Resurgence,Action|Adventure|Sci-Fi,Vivica A. Fox,0.03666403,0.269932845,Sela Ward,5.5
+How to Train Your Dragon,Adventure|Animation|Family|Fantasy,Gerard Butler,0.090936145,0.209814746,America Ferrera,8.2
+Terminator 3: Rise of the Machines,Action|Sci-Fi,Nick Stahl,0.044675926,0.209027778,M.C. Gainey,6.4
+Guardians of the Galaxy,Action|Adventure|Sci-Fi,Bradley Cooper,0.076512877,0.190278472,Vin Diesel,8.1
+Interstellar,Adventure|Drama|Sci-Fi,Matthew McConaughey,0.054501563,0.20454796,Anne Hathaway,8.6
+Inception,Action|Adventure|Sci-Fi|Thriller,Leonardo DiCaprio,0.02557749,0.19018391,Tom Hardy,8.8
+Godzilla Resurgence,Action|Adventure|Drama|Horror|Sci-Fi,Mark Chinnery,0.201515152,0.393939394,Shin'ya Tsukamoto,8.2
+The Hobbit: An Unexpected Journey,Adventure|Fantasy,Aidan Turner,0.057414807,0.154043179,Adam Brown,7.9
+The Fast and the Furious,Action|Crime|Thriller,Paul Walker,0.145876807,0.497538955,Vin Diesel,6.7
+The Curious Case of Benjamin Button,Drama|Fantasy|Romance,Brad Pitt,0.037427303,0.149134655,Jason Flemyng,7.8
+X-Men: First Class,Action|Adventure|Sci-Fi,Jennifer Lawrence,0.180810606,0.388785354,Michael Fassbender,7.8
+The Hunger Games: Mockingjay - Part 2,Adventure|Sci-Fi,Jennifer Lawrence,-0.350778717,0.395311252,Philip Seymour Hoffman,6.6
+The Sorcerer's Apprentice,Action|Adventure|Family|Fantasy,Nicolas Cage,0.089821491,0.219915244,Omar Benson Miller,6.1
+Poseidon,Action|Adventure|Drama|Thriller,Jimmy Bennett,0.042800106,0.209764806,Mike Vogel,5.6
+Article 15,Drama| Thriller| Crime | UA,Ayushmann Khurrana| | Manoj Pahwa| Sayani Gupta| Kumud Mishra| Mohammed Zeeshan Ayyub,0.043849866,0.267115734,Isha Talwar,8.3
+The Great Indian Escape,Drama| Adventure| Biography | U,Raghav Rishi| | Asheesh Kapur,0.8,0.75,Raj Singh Arora,5.6
+Kalank,Drama| Period| Romance | UA,Alia Bhatt| Madhuri Dixit| | Aditya Roy Kapur| Sonakshi Sinha| Sanjay Dutt| Hiten Tejwani| Kriti Sanon| Kunal Khemu,0.095676618,0.217999401,Varun Dhawan,3.6
+Kabir Singh,Drama| Action| Romance | A,Shahid Kapoor| | Arjan Bajwa| Suresh Oberoi| Nikita Dutta| Teena Singh| Adil Hussain| Soham Majumdar| Kunal Thakur,0.073746585,0.264696013,Kiara Advani,7.2
+Gully Boy,Drama| Biography| Musical | UA,Ranveer Singh|| Kalki Koechlin| Parmeet Sethi| Pooja Gaur| Ananya Panday| Vijay Raaz,0.074501553,0.217708369, Alia Bhatt,8.2
+Kissebaaz,Drama| Action | UA,Pankaj Tripathi| | Anupriya Goenka| Evelyn Sharma| Zakir Hussain| Rajesh Sharma,0.31875,0.63125,Rahul Bagga,4.2
+Khamoshi,Horror| Thriller | UA,Tamannaah Bhatia|| Bhumika Chawla| Sanjay Suri| Murli Sharma,0.083616071,0.221875709, Prabhudeva,4.8
+Bharat,Action| Drama | UA,Salman Khan| | Disha Patani| Sunil Grover| Tabu| Jackie Shroff| Sonali Kulkarni| Nora Fatehi,0.032385127,0.163555507,Katrina Kaif,6.6
+Nakkash,Drama | UA,Innamulhaq|  Rajesh Sharma| Pawan Tiwari| Anil Rastogi,-0.015384615,0.115384615,Sharib Hashmi|,6
+Naughty Gang,Drama | UA,Mukesh Tiwari| | Viren Bika| Kaif Khan| Monika Ravan| Ramanjeet Singh| Vividha Kirti| Soniya Bansal,0.118313492,0.167032313,Rashmi Mishra,4
+Yeh Hai India,Drama| Adventure| Action | UA,Antara Banerjee| | Mohan Joshi| Surendra Pal| Gavie Chahal| Deana Uppal,0.018622157,0.191287418,Mohan Agashe,5.7
+PM Narendra Modi,Drama| Biography | U,Vivek Oberoi|  Darshan Kumaar| Zarina Wahab| Manoj Joshi| Prashant Narayanan| Barkha Bisht Sengupta| Rajendra Gupta| Yatin Karyekar,0.045446781,0.098236637,Boman Irani|,3.3
+India's Most Wanted,Action| Thriller | UA,Arjun Kapoor| | Prashanth Alexander,-0.00032967,0.223369963,Rajesh Sharma,4.4
+De De Pyaar De,Drama| Comedy | UA,Ajay Devgn| Tabu| | Alok Nath| Jaaved Jaaferi| Jimmy Sheirgill,0.3,0.18,Rakul Preet Singh,6.6
+Badla,Crime| Thriller | UA,Amitabh Bachchan|| Amrita Singh| Manav Kaul,0.050645129,0.184165554, Taapsee Pannu,7.9
+Alice Through the Looking Glass,Adventure|Family|Fantasy,Johnny Depp,0.026002454,0.183926673,Alan Rickman,6.4
+Shrek the Third,Adventure|Animation|Comedy|Family|Fantasy,Justin Timberlake,0.031961092,0.149781092,Eric Idle,6.1
+Warcraft,Action|Adventure|Fantasy,Dominic Cooper,0.04669143,0.206435371,Callum Rennie,7.3
+Terminator Genisys,Action|Adventure|Sci-Fi,J.K. Simmons,-0.040843664,0.317462121,Emilia Clarke,6.6
+The Chronicles of Narnia: The Voyage of the Dawn Treader,Adventure|Family|Fantasy,Bruce Spence,0.014968487,0.059208683,Shane Rangi,6.3
+Pearl Harbor,Action|Drama|History|Romance|War,Jennifer Garner,0.039186775,0.211980357,Jaime King,6.1
+Transformers,Action|Adventure|Sci-Fi,Zack Ward,0.093375807,0.267712999,Michael O'Neill,7.1
+Alexander,Action|Adventure|Biography|Drama|History|Romance|War,Anthony Hopkins,0.073739469,0.245116411,Angelina Jolie Pitt,5.5
+Harry Potter and the Order of the Phoenix,Adventure|Family|Fantasy|Mystery,Robert Pattinson,0.032437025,0.1842213,Daniel Radcliffe,7.5
+Harry Potter and the Goblet of Fire,Adventure|Family|Fantasy|Mystery,Robert Pattinson,0.054956799,0.182686904,Daniel Radcliffe,7.6
+Hancock,Action|Drama,Will Smith,0.0093949,0.247554155,Charlize Theron,6.4
+I Am Legend,Drama|Horror|Sci-Fi,Will Smith,0.052402036,0.236868329,Alice Braga,7.2
+Charlie and the Chocolate Factory,Adventure|Comedy|Family|Fantasy,Johnny Depp,0.070822218,0.220516191,Christopher Lee,6.7
+Ratatouille,Animation|Comedy|Family|Fantasy,Janeane Garofalo,0.10886636,0.235535383,John Ratzenberger,8
+Batman Begins,Action|Adventure,Christian Bale,0.057522972,0.251394645,Liam Neeson,8.3
+Madagascar: Escape 2 Africa,Action|Adventure|Animation|Comedy|Family,Bernie Mac,0.117842625,0.210119048,Jada Pinkett Smith,6.7
+Night at the Museum: Battle of the Smithsonian,Adventure|Comedy|Family|Fantasy,Robin Williams,0.091666667,0.145061728,Rami Malek,5.9
+X-Men Origins: Wolverine,Action|Adventure|Fantasy|Sci-Fi|Thriller,Hugh Jackman,0.09375,0.228125,Ryan Reynolds,6.7
+The Matrix Revolutions,Action|Sci-Fi,Essie Davis,0.036256806,0.283160675,Collin Chou,6.7
+Frozen,Adventure|Animation|Comedy|Family|Fantasy|Musical,Josh Gad,0.074691756,0.282856845,Maurice LaMarche,7.6
+The Matrix Reloaded,Action|Sci-Fi,Steve Bastoni,0.057989196,0.212599305,Daniel Bernhardt,7.2
+Thor: The Dark World,Action|Adventure|Fantasy,Chris Hemsworth,-0.055371213,0.40633096,Natalie Portman,7.1
+Mad Max: Fury Road,Action|Adventure|Sci-Fi|Thriller,Tom Hardy,-0.3716704,0.793342308,Charlize Theron,8.1
+Angels & Demons,Mystery|Thriller,Tom Hanks,0.039635076,0.208648549,Ayelet Zurer,6.7
+Thor,Action|Adventure|Fantasy,Chris Hemsworth,0.079283997,0.264050061,Natalie Portman,7
+Bolt,Adventure|Animation|Comedy|Drama|Family,Chlo  Grace Moretz,0.039048541,0.202032717,Diedrich Bader,6.9
+G-Force,Action|Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Kelli Garner,0.052203095,0.213845427,Piper Mackenzie Harris,5.1
+Wrath of the Titans,Action|Adventure|Fantasy,Liam Neeson,0.079473039,0.141053922,Edgar Ram ­rez,5.8
+Dark Shadows,Comedy|Fantasy|Horror,Johnny Depp,-0.027033461,0.408456162,Chlo  Grace Moretz,6.2
+Mission: Impossible - Rogue Nation,Action|Adventure|Thriller,Tom Cruise,0.132696896,0.236832817,Jeremy Renner,7.4
+The Wolfman,Drama|Fantasy|Horror|Thriller,Anthony Hopkins,0.059398955,0.277559684,Simon Merrells,5.8
+The Legend of Tarzan,Action|Adventure|Drama|Romance,Christoph Waltz,0.122485234,0.265672296,Alexander Skarsg ¥rd,6.6
+The Accidental Prime Minister,Drama| Biography | U,Anupam Kher| | Suzanne Bernert| Arjun Mathur| Aahana Kumra| Avtar Sahni| Vimal Verma| Anil Rastogi| Mike Gassaway| Atul Sharma| Manoj Anand| Divya Seth,-0.05547619,0.299126984,Akshaye Khanna,6.1
+Setters,Drama| Thriller| Crime | U,Aftab Shivdasani|| Sonnalli Seygall| Ishita Dutta| Pavan Malhotra| Vijay Raaz| Jameel Khan,0.085341157,0.199907514, Shreyas Talpade,5.1
+Blank,Action| Thriller | UA,Sunny Deol|  Ishita Dutta| Rashika Pradhan| JameelKhan,0.025555614,0.163858126,Karan Kapadia|,5.8
+Why Cheat India,Drama | UA,Emraan Hashmi| | Ammar Taalwala,0.039962121,0.135492424,Shreya Dhanwanthary,6
+Salt Bridge,Drama | U,Rajeev Khandelwal|| Chelsie Preston Crayford,0.089915268,0.235460881, Usha Jadhav,5.8
+Blackboard Vs Whiteboard,Drama | U,Dharmendra Singh| Akhilendra Mishra| Ashok Samarth,0.375,0.675,Raghubir Yadav,4.2
+Paharganj,Drama| Thriller| Mystery | A,Brijesh Jayarajan| | Rajeev Gaursingh| Karan Soni| Rajesh Sharma| Gautam Kurup,0.032000197,0.234221435,Lorena Franco,4.2
+Romeo Akbar Walter,Thriller| Action | UA,John Abraham| | Jackie Shroff| Sikander Kher,-0.066958042,0.254370629,Mouni Roy,6.8
+Panipat,Drama| Action| History | U,Sanjay Dutt| Kriti Sanon| | Padmini Kolhapure| Zeenat Aman| Mohnish Bahl| Suhasini Mulay| Ravindra Mahajani| Gashmeer Mahajani| Nawab Shah| Krutika Deo| Sham Mashalkar,0.045918565,0.152634826,Arjun Kapoor,6.6
+Gone Kesh,Drama| Comedy | U,Shweta Tripathi|| Deepika Amin| Jitendra Kumar Biswal,-0.014262372,0.22054155, Vipin Sharma,7.1
+Notebook,Drama| Romance | U,Zaheer Iqbal| ,0.07920798,0.241365738,Pranutan Bahl,6.8
+Junglee,Adventure| Action| Family | UA,Vidyut Jammwal| | Asha Bhat| Atul Kulkarni| Makarand Deshpande| Akshay Oberoi,0.055368207,0.216397236,Pooja Sawant,5.3
+Tennis Buddies,Drama | UA,Divya Dutta| | Dakshita Patel| Bikramjeet Kanwarpal,0.068421053,0.067813765,Ranvir Shorey,5
+Kesari,Drama| History| War | UA,Akshay Kumar| Edward Sonnenblick| Mark Bennington| Pavan Malhotra| Ashwath Bhatt| Rana Ranbir| Mir Sarwar,0.083247866,0.232609483, Parineeti Chopra|,7.4
+Mard Ko Dard Nahi Hota,Comedy| Drama| Action | UA,Abhimanyu Dasani| | Gulshan Devaiah| Mahesh Manjrekar| Jimit Trivedi,0.176666667,0.323333333,Radhika Madan,7.4
+Photograph,Drama| Romance | UA,Nawazuddin Siddiqui|| Denzil Smith,0.071013376,0.218499824, Sanya Malhotra,6.9
+URI: The Surgical Strike,Drama| Action| War | UA,Vicky Kaushal| | Kirti Kulhari| Vikramjeet Virk| Paresh Rawal| Manish Chaudhary| Anil George| Swaroop Sampat,0.071363636,0.124360269,Yami Gautam,8.4
+Milan Talkies,Drama | UA,Ali Fazal| | Sanjay Mishra| Ashutosh Rana| Yashpal Sharma| Sikander Kher| Pankaj Tripathi| Reecha Sinha,0.25,0.4,Shraddha Srinath,5.3
+Ek Ladki Ko Dekha Toh Aisa Laga,Drama| Comedy| Romance | UA,Anil Kapoor| Sonam Kapoor| | Juhi Chawla| Madhumalti Kapoor| Regina Cassandra| Abdul Quadir Amin| Brijendra Kala| Seema Pahwa| Abhishek Duhan,0.180543008,0.351482213,Rajkummar Rao,6.6
+Hamid,Drama | UA,Talha Arshad Reshi| | Sumit Kaul| Mir Sarwar,0.07320077,0.191642467,Rasika Dugal,7.7
+Manikarnika: The Queen Of Jhansi,Drama| Biography| History| Action | UA,Kangana Ranaut| | Jisshu Sengupta| Suresh Oberoi| Danny Denzongpa| Kulbhushan Kharbanda| Mohammed Zeeshan Ayyub| Ankita Lokhande| Taher Shabbir| Manish Wadhwa| Yash Tonk| Mishti Chakravarty| Unnati Davara,0.164583333,0.26875,Atul Kulkarni,6.5
+Thackeray,Drama| Biography | UA,Nawazuddin Siddiqui| ,0.048483923,0.157814408,Amrita Rao,5.1
+Bee Movie,Adventure|Animation|Comedy|Family,Matthew Broderick,0.039875208,0.225322201,Oprah Winfrey,6.2
+Kung Fu Panda 2,Action|Adventure|Animation|Comedy|Family,Angelina Jolie Pitt,0.036354028,0.117355961,Gary Oldman,7.3
+The Last Airbender,Action|Adventure|Family|Fantasy,Seychelle Gabriel,0.034349827,0.190530168,Noah Ringer,4.2
+Mission: Impossible III,Action|Adventure|Thriller,Philip Seymour Hoffman,0.03411306,0.16581384,Tom Cruise,6.9
+White House Down,Action|Drama|Thriller,Channing Tatum,0.02915457,0.203551174,Jake Weber,6.4
+Mars Needs Moms,Action|Adventure|Animation|Comedy|Family|Sci-Fi,Elisabeth Harnois,-0.002735615,0.253306052,Dan Fogler,5.4
+Flushed Away,Adventure|Animation|Comedy|Family,Hugh Jackman,0.039014516,0.188054739,Kate Winslet,6.7
+Pan,Adventure|Family|Fantasy,Hugh Jackman,0.089007772,0.237497363,Cara Delevingne,5.8
+Mr. Peabody & Sherman,Adventure|Animation|Comedy|Family|Sci-Fi,Ty Burrell,0.045562771,0.18577868,Zach Callison,6.9
+Troy,Adventure,Brad Pitt,0.0528415,0.231521145,Orlando Bloom,7.2
+Madagascar 3: Europe's Most Wanted,Adventure|Animation|Comedy|Family,Jada Pinkett Smith,0.154444444,0.199444444,Martin Short,6.9
+Die Another Day,Action|Adventure|Thriller,Toby Stephens,-0.028942552,0.32547967,Colin Salmon,6.1
+Ghostbusters,Action|Comedy|Fantasy|Sci-Fi,Ed Begley Jr.,0.061601863,0.213069796,Kate McKinnon,5.5
+Armageddon,Action|Adventure|Sci-Fi|Thriller,Bruce Willis,0.049163215,0.240366669,Steve Buscemi,6.6
+Men in Black II,Action|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi,Will Smith,-0.111865817,0.414439279,Rosario Dawson,6.1
+Beowulf,Action|Adventure|Animation|Fantasy,Robin Wright,0.052211404,0.226417644,Anthony Hopkins,6.3
+Kung Fu Panda 3,Action|Adventure|Animation|Comedy|Family,J.K. Simmons,0.025662037,0.09464665,Angelina Jolie Pitt,7.2
+Mission: Impossible - Ghost Protocol,Action|Adventure|Thriller,Tom Cruise,0.047947588,0.254397289,Jeremy Renner,7.4
+Rise of the Guardians,Adventure|Animation|Family|Fantasy,Hugh Jackman,0.079763167,0.188483254,Kamil McFadden,7.3
+Fun with Dick and Jane,Comedy|Crime,John Michael Higgins,0.253139603,0.245809885,Richard Burgi,6.1
+The Last Samurai,Action|Drama|History|War,Tom Cruise,0.058696619,0.186091614,Tony Goldwyn,7.7
+Sonchiriya,Drama| Action| Crime | A,Bhumi Pednekar|| Manoj Bajpayee| Ashutosh Rana| Ranvir Shorey,0.141865661,0.298732719,Sushant Singh Rajput,7.5
+Luka Chuppi,Romance| Comedy | UA,Kartik Aaryan| | Aparshakti Khurana| Pankaj Tripathi| Vinay Pathak,0.058333333,0.116071429,Kriti Sanon,6.8
+Padmaavat,Drama|History|Romance,Deepika Padukone||Shahid Kapoor|Aditi Rao Hydari|Jim Sarbh|Anupriya Goenka|Raza Murad|Ujjwal Chopra|Komal Chhabria|Lankesh Bhardwaj|Bhawani Muzamil|Hriiday Malhotra|Deepak Shreemali|Manish Wadhwa|,0.119160749,0.240935673,Ranveer Singh,7
+Jaane kyun de yaaron,Drama,Akshay Anand||Hitesh Bhardwaj|Abhay Bhargav|Ravi Raj Kande|Viju Khote|Usha Nadkarni|Chetna Pande|Daya Shankar Pandey|Raghu Raja|Abhishek Sharma|Vikram Singh|Yashwant Singh|,0.375,0.675,Kabir Bedi,4.4
+Sonu Ke Titu Ki Sweety,Comedy|Romance,Kartik Aaryan||Sunny Singh Nijjar|Alok Nath|Madhumalti Kapoor|Ishita Raj|Pawan Chopra|Ayesha Raza|Deepika Amin|Rajesh Jais|Virendra Saxena|,-0.091428571,0.220238095,Nushrat Bharucha,7.1
+Hate Story IV,Crime|Drama|Thriller,Lee Byford||Gulshan Grover|Vaunisha Kapoor|Lee Nicholas Harris|Ty Hurley|Komal Chhabria|Shaad Randhawa|Atul Sharma|Manoj Anand|Daniel Eghan|Tia Bajpai|Vivan Bhatena|Swaylee Loughnane|,-0.8,0.9,Urvashi Rautela,3.3
+3 Storeys,Drama,Aisha Ahmed||Richa Chadha|Gopal Das|Mallhar Goenka|Sharman Joshi|Saunskruti Kher|Omkar Kulkarni|Masumeh Makhija|Himanshu Malik|Himmat Mav|Ankit Rathi|Pulkit Samrat|Renuka Shahane|,0.047090909,0.256583333,Tarun Anand,7.1
+Raid,Action|Crime|Drama,Ajay Devgn||Ileana D'Cruz|Amit Sial|,0.038175825,0.279834573,Saurabh Shukla,7.4
+Hichki,Comedy|Drama,Rani Mukerji|Sachin||Rohit Saraf|Jannat Zubair Rahmani|Harsh Mayar|Vikram Gokhale|Leena Acharya|Supriya Pilgaonkar|Ivan Rodrigues|Shivkumar Subramaniam|Asif Basra|Hussain Dalal|Riya Shukla|,0.094971454,0.272751061,Neeraj Kabi,7.5
+Missing,Drama|Mystery|Thriller,Manoj Bajpayee|Tabu||Rajesh Jais|Naveen Kaushik|Kali Prasad Mukherjee|Priyanka Setia|Jaswinder Gardner|Shruti Chandana|Ashu Sharma|V.M. Badola|Sudeep Sarangi|,0.069793399,0.249925662,Annu Kapoor,5.7
+Baaghi 2,Action|Thriller,Tiger Shroff|Disha Patani||Randeep Hooda|Deepak Dobriyal|Prateik|Darshan Kumaar|,0.117121212,0.176060606,Manoj Bajpayee,5
+High Jack,Comedy,Sumeet Vyas||Sonnalli Seygall|,0.128796496,0.427071671,Mantra Mugdh,5.2
+Khajoor Pe Atke,Comedy,Vinay Pathak||Alka Amin|Manoj Pahwa|,0.116666667,0.116666667,Suneeta Sengupta,5.6
+Parmanu: The Story of Pokhran,Action|Drama|History,John Abraham||Diana Penty|Anuja Sathe|Vikas Kumar|Yogendra Tiku|Aditya Hitkari|Ajay Shankar|Darshan Pandya|Mark Bennington|,-0.097619048,0.15015873,Boman Irani,7.7
+Bioscopewala,Drama,Danny Denzongpa||Adil Hussain|Tisca Chopra|Brijendra Kala|Ekavali Khanna|Maya Sarao|Miraya Suri|Prisha Dabbas|Sahra Khan Sahibi|Simon Frenay|Shashi Bhushan|Subroto Sarkar|Sumit Sarkar|,-0.05,0.3,Geetanjali Thapa,7.7
+Phamous,Comedy|Crime|Drama,Jimmy Sheirgill||Kay Kay Menon|Pankaj Tripathi|Jackie Shroff|Mahie Gill|Brijendra Kala|Achyut Potdar|Deep Raj Rana|Jameel Khan|Samvedna Suwalka|Karan Patel|Padmavati Rao|Satyadeep Misra|,0.047855409,0.170162303,Shriya Saran,3.7
+Race 3,Action|Thriller,Anil Kapoor||Bobby Deol|Jacqueline Fernandez|Daisy Shah|Saqib Saleem|Freddy Daruwala|,0.056137029,0.222878303,Salman Khan,2
+Dhadak,Comedy|Drama|Romance,Ishaan Khattar||Ashutosh Rana|Aditya Kumar|Kharaj Mukherjee|Ankit Bisht|Shalini Kapoor|Aishwarya Narkar|Usha Shree|Sartaj Ansari|Hempushpak Arora|Aishwarya Avinash|Vishwanath Chatterjee|Alok Ranjan Chaudhary|,0.072398753,0.324739787,Janhvi Kapoor,4.5
+Sanju,Biography|Drama,Ranbir Kapoor||Manisha Koirala|Vicky Kaushal|Dia Mirza|Anushka Sharma|Sonam Kapoor|Jim Sarbh|Karishma Tanna|Boman Irani|Ashnoor Kaur|Siya|Tabu|Sayaji Shinde|,0.112885334,0.215496644,Paresh Rawal,7.8
+Mulk,Drama,Taapsee Pannu||Prateik|Ashutosh Rana|Neena Gupta|Ashrut Jain|Simran Nisha|,0.030609578,0.250053842,Rishi Kapoor,6.7
+Brij Mohan Amar Rahe,Comedy|Crime|Drama,Arjun Mathur||Sheetal Thakur|Manav Vij|Aanchal Chauhan|Sunny Hinduja|Vijayant Kohli|Yogendra Tiku|Lokesh Mittal|Jitendra Gupta|,-0.291666667,0.541666667,Nidhi Singh,7
+Karwaan,Comedy|Drama,Irrfan Khan||Mithila Palkar|Amala Akkineni|Akash Khurana|Kriti Kharbanda|Donna Munshi|Abir Abrar|Beena Banerjee|Siddharth Menon|Adrika Shetty|Sameer Saxena|Kallirroi Tziafeta|Richard John Lovatt|,0.062409922,0.165150745,Dulquer Salmaan,7.5
+Gold,Drama|History|Sport,Akshay Kumar||Kunal Kapoor|Amit Sadh|Viineet Kumar|Sunny Kaushal|Nikita Dutta|Andrew Havill|Manjit Singh|Christopher James Burton|Kumud Pant|Varun Raj|Sam Succoi|Bhawsheel Sahni|,0.067601296,0.247999517,Mouni Roy,7.3
+Satyameva Jayate,Action|Thriller,John Abraham||Aisha Sharma|Amruta Khanvilkar|Manish Chaudhary|Myrah Dandekar|Devdutta Nage|Nora Fatehi|,0.123603368,0.302841173,Manoj Bajpayee,5.6
+Shamitabh,Drama,Amitabh Bachchan||Akshara Haasan|Abhinaya|Pete Meads|Rukmini Vijayakumar|Shubham|Pratik|Sonamani|Rajeev|Ajay Jadhav|Asif Ali Beg|Ivan Rodrigues|Uday Tikekar|,0.06,0.26,Dhanush,6.8
+Dilwale,Action|Comedy|Romance,Shah Rukh Khan|Kajol||Kriti Sanon|Boman Irani|Varun Sharma|Johnny Lever|Mukesh Tiwari|Pankaj Tripathi|Sanjay Mishra|Chetna Pande|Vinod Khanna|Kabir Bedi|,0.075838337,0.147589952,Varun Dhawan,5.2
+Exodus: Gods and Kings,Action|Adventure|Drama,Christian Bale,0.048186728,0.12184928,Mar ­a Valverde,6.1
+Star Trek,Action|Adventure|Sci-Fi,Chris Hemsworth,0.107991829,0.2684505,Leonard Nimoy,8
+Spider-Man,Action|Adventure|Fantasy|Romance,J.K. Simmons,0.063285259,0.271389016,James Franco,7.3
+How to Train Your Dragon 2,Action|Adventure|Animation|Comedy|Family|Fantasy,Gerard Butler,0.043671584,0.214573373,Djimon Hounsou,7.9
+Gods of Egypt,Action|Adventure|Fantasy,Gerard Butler,0.023376341,0.089594817,Elodie Yung,5.5
+Stealth,Action|Adventure|Sci-Fi|Thriller,Sam Shepard,0.105107061,0.314755039,Joe Morton,5
+Watchmen,Action|Drama|Mystery|Sci-Fi,Matt Frewer,0.07124092,0.254333216,Billy Crudup,7.7
+Lethal Weapon 4,Action|Crime|Thriller,Jet Li,0.069668263,0.225095865,Rene Russo,6.6
+Hulk,Action|Sci-Fi,Kevin Rankin,0.026590408,0.24666956,Regi Davis,5.7
+G.I. Joe: Retaliation,Action|Adventure|Sci-Fi|Thriller,Channing Tatum,0.047851967,0.276345756,Dwayne Johnson,5.8
+Sahara,Action|Adventure|Comedy|Thriller,Matthew McConaughey,0.037379847,0.208941875,Rainn Wilson,6
+Final Fantasy: The Spirits Within,Action|Adventure|Animation|Fantasy|Romance|Sci-Fi,Steve Buscemi,0.055981756,0.771156119,Ming-Na Wen,6.4
+Captain America: The First Avenger,Action|Adventure|Sci-Fi,Chris Evans,0.220664071,0.354753758,Dominic Cooper,6.9
+Bajrangi Bhaijaan,Action|Comedy|Drama,Salman Khan|Harshaali Malhotra||Kareena Kapoor|Sharat Saxena|Alka Badola Kaushal|Om Puri|Meher Vij|Rajesh Sharma|Mir Sarwar|Khushaal Pawar|Krunal Pandit|Manoj Bakshi|Mursaleem Qureshi|,0.060236806,0.264370855,Nawazuddin Siddiqui,8
+Bajirao Mastani,Action|Drama|History,Ranveer Singh|||Tanvi Azmi|Mahesh Manjrekar|Raza Murad|Aditya Pancholi|Milind Soman|Vaibhav Tatwawaadi|Yatin Karyekar|Benjamin Gilani|Zila Khan|Ganesh Yadav|Sukhada Khandkekar|,0.098822772,0.250178643,Priyanka Chopra,7.2
+Genius,Action|Thriller,Utkarsh Sharma||Mithun Chakraborty|Ayesha Jhulka|Nawazuddin Siddiqui|,0.073390255,0.270940633,Ishita Chauhan,4.6
+Stree,Comedy|Horror,Rajkummar Rao|Shraddha Kapoor||Aparshakti Khurana|Abhishek Banerjee|Ram Kishan Dhakad|Atul Srivastava|Vijay Raaz|Aakash Dabhade|Nora Fatehi|Kriti Sanon|Flora Saini|,0.046815636,0.175447279,Pankaj Tripathi,7.7
+Paltan,Action|Drama|History,Jackie Shroff||Sonu Sood|Gurmeet Choudhary|Abdul Quadir Amin|Siddhant Kapoor|Harshvardhan Rane|Luv Sinha|Abhilash Chaudhary|Esha Gupta|Bijou Thaangjam|Sonal Chauhan|Monica Gill|Dipika Kakar|,0.148195268,0.303902705,Arjun Rampal,5.2
+Batti Gul Meter Chalu,Drama,Shahid Kapoor||Divyendu Sharma|Yami Gautam|Sushmita Mukherjee|Samir Soni|Ashrut Jain|,0.037037037,0.187962963,Shraddha Kapoor,6.1
+Love Sonia,Drama,Abhishek Bharate||Mrunal Thakur|Adil Hussain|Kiran Khoje|Saroj Sharma|Bhavik Jain|Sonali Jain|Rahul Goyal|Sai Tamhankar|D.P. Singh|Anupam Kher|Nikita Aggarwal|Ankur Vikal|,0.296028221,0.437261815,Riya Sisodiya,7.4
+Manto,Biography|Drama,Nawazuddin Siddiqui||Tahir Raj Bhasin|Nazma Ali Shaikh|Ashwini Giri|Neeraj Sood|Purab Kohli|Swanand Kirkire|Chittaranjan Tripathy|Vihaan Das Maskara|Nishith Dadhich|Sunil Kamath|Priyanka Misal|Suhas Joshi|,0.068079191,0.213642414,Rasika Dugal,7.4
+Ishqeria,Comedy|Romance,Manish Anand||Richa Chadha|Juby Devasia|Lata Gandi|Gurbani|Bikramjeet Kanerwal|Mustaq Khan|Ehsaas Madan|Neil Nitin Mukesh|Rajni Nayyar|Sanaya Pithawalla|Mrudula Sathe|Mrinalini Sharma|,0.5,0.9,Raj Babbar,4.2
+Manmarziyaan,Romance,Taapsee Pannu||Vicky Kaushal|Jasmin Bajwa|Ashnoor Kaur|Swairaj Sandhu|Neelu Kohli|Poonam Shah|Priyanka Shah|Sukhmani Sadana|Saurabh Sachdeva|Arshpreet Singh|,0.063246492,0.148720857,Abhishek Bachchan,6.9
+Mitron,Comedy,Jackky Bhagnani||Prateik|Perlene Bhersaina|Rishi Panchal|Neha Reddy|,0.049359423,0.144468807,Kritika Kamra,6.9
+Baazaar,Crime|Drama|Thriller,Radhika Apte||Chitrangda Singh|Danish Husain|Denzil Smith|Pawan Chopra|Manish Chaudhary|Rohan Vinod Mehra|Karan Singh Chhabra|Mukesh Hariawala|Sahil Sangha|Mayur Bansiwal|Sonia Balani|Sai Gundewar|,0.047727273,0.25245098,Saif Ali Khan,6.6
+Jalebi,Drama,Rhea Chakraborty||Digangana Suryavanshi|Arya Poorti|Mahesh Thakur|,0.08620131,0.191849988,Varun Mitra,6.3
+FryDay,Comedy,Govinda||Sanjay Mishra|Rajesh Sharma|Digangana Suryavanshi|Prabhleen Sandhu|,0.086848788,0.23492105,Varun Sharma,5.4
+Tumbbad,Drama|Fantasy|Horror,Sohum Shah|Jyoti Malshe|Anita Date|Ronjini Chakraborty||,0.090429678,0.1958232,Deepak Damle,8.2
+Helicopter Eela,Drama,Kajol||Tota Roy Chowdhury|Neha Dhupia|,0.09,0.27,Riddhi Sen,5.5
+Namaste England,Comedy|Drama|Romance,Arjun Kapoor||Atul Sharma|Aditya Seal|Joakim Skarli|Sammy John Heaney|Shreya Mehta|Vaunisha Kapoor|Sonia Goswami|Hiten Patel|Satish Kaushik|Manoj Anand|Katie Iqbal|Alankrita Sahai|,0.069510582,0.438955026,Parineeti Chopra,1.7
+Tiger Zinda Hai,Action|Adventure|Thriller,Salman Khan|f|Anupriya Goenka|Paresh Rawal|Nawab Shah|Zachary Coffin|Angad Bedi|Kumud Mishra|Danish Bhatt|Ryan Sturz|Girish Karnad|Kashmira Irani|Varun V. Sharma|Vibhoutee Sharma|,0.120376894,0.235309919,Katrina Kai,6
+Golmaal Again,Action|Comedy|Fantasy,Ajay Devgn|i|Tusshar Kapoor|Shreyas Talpade|Kunal Khemu|Parineeti Chopra|Tabu|Neil Nitin Mukesh|Prakash Raj|Johnny Lever|Sanjay Mishra|Mukesh Tiwari|Uday Tikekar|Vrajesh Hirjee|,0.044666667,0.134666667,Arshad Warsi,4.9
+Judwaa 2,Action|Comedy,Varun Dhawan||Taapsee Pannu|Anupam Kher|Sachin Khedekar|Prachee Shah Paandya|Upasna Singh|Rajpal Yadav|Vivan Bhatena|Zakir Hussain|Manoj Joshi|Charlie Carter|Fernanda Diniz|Benny Bereal|,0.105660049,0.20245559,Jacqueline Fernandez,3.8
+OK Jaanu,Drama|Romance,Shraddha Kapoor||Aditya Roy Kapoor|Srishti Shrivastava|Kitu Gidwani|Vibhoutee Sharma|Sarika Singh|Sanjay Gurbaxani|Jasmeet Singh Bhatia|Paul Varghese|Anil Khopkar|Leela Samson|Balkrishna Doshi|Neeraj Goswami|,0.363715278,0.437291667,Naseeruddin Shah,5.1
+Coffee with D,Comedy,Sunil Grover||Dipannita Sharma|Rajesh Sharma|,0.097276226,0.276664314,Zakir Hussain,4.5
+Kaabil,Action|Drama|Thriller,Hrithik Roshan||Ronit Roy|Rohit Roy|Narendra Jha|Girish Kulkarni|Sahidur Rahaman|Suresh Menon|,0.092619048,0.235152505,Yami Gautam,7.1
+Raees,Action|Crime|Drama,Raj Arjun||Shubham Tukaram|Yug|Sagar|Sheeba Chaddha|Loveleen Mishra|Utkarsh Mazumdar|Prasoon Narayan|Avinash Razdan|Nishad Raj Rana|Ashok|Atul Kulkarni|Mahendra Shrivas|,0.082633069,0.198357001,Shubham Chintamani,6.8
+Thugs of Hindostan,Action|Adventure,Aamir Khan|Katrina Kaif||Fatima Sana Shaikh|Lloyd Owen|Ronit Roy|Joe Azzopardi|Terence J. Rotolo|Mohammed Zeeshan Ayyub|Sharat Saxena|Shaji Chaudhary|Satyadev Kancharana|Bilal Hossein|Abdul Quadir Amin|,0.0575,0.0775,Amitabh Bachchan,4
+The Ghazi Attack,Action|Thriller|War,Rana Daggubati||Atul Kulkarni|Om Puri|Nassar|Rahul Singh|Milind Gunaji|Taapsee Pannu|,0.045758929,0.096651786,Kay Kay Menon,7.6
+Irada,Drama|Mystery|Thriller,Naseeruddin Shah||Divya Dutta|Sharad Kelkar|Sagarika Ghatge|Rajesh Sharma|Rumana Molla|Nikhil Pandey|Prashantt Guptha|Diwakar Kumar|Harmeet Kaur|Savita Bhatti|Prince Soni|Rohan Shah|,0.098553815,0.271146337,Arshad Warsi,6.2
+Rangoon,Action|Drama|History,Kangana Ranaut||Saif Ali Khan|Manav Vij|Ujjwal Chopra|Kuldeep Sareen|Saharsh Kumar Shukla|Rushad Rana|Shriswara Dubey|Gajraj Rao|Pooja Sarup|Atul Kumar|Richard McCabe|Alex Avery|,0.044433063,0.239500143,Shahid Kapoor,5.7
+Wedding Anniversary,Drama,Nana Patekar||Priyanshu Chatterjee|,0.126326872,0.209621986,Mahie Gill,5.4
+The World Is Not Enough,Action|Adventure|Thriller,Colin Salmon,0.054949826,0.399983853,Maria Grazia Cucinotta,6.4
+Master and Commander: The Far Side of the World,Action|Adventure|Drama|History|War,James D'Arcy,0.138348221,0.806988542,Lee Ingleby,7.4
+The Twilight Saga: Breaking Dawn - Part 2,Adventure|Drama|Fantasy|Romance,Robert Pattinson,0.094136364,0.164954545,Kristen Stewart,5.5
+Happy Feet 2,Animation|Comedy|Family|Musical,Robin Williams,0.079038608,0.294652264,Brad Pitt,5.9
+The Incredible Hulk,Action|Adventure|Sci-Fi,Ty Burrell,0.047993544,0.209471098,Peter Mensah,6.8
+Miami Vice            ,Action|Crime|Drama|Mystery|Thriller,Don Johnson,0.097186656,0.243820678,Philip Michael Thomas,7.5
+The BFG,Adventure|Family|Fantasy,Mark Rylance,0.028139956,0.269979429,Penelope Wilton,6.8
+The Revenant,Adventure|Drama|Thriller|Western,Leonardo DiCaprio,0.03956991,0.255923958,Tom Hardy,8.1
+Turbo,Adventure|Animation|Comedy|Family|Sport,Ryan Reynolds,0.074640012,0.249919023,Snoop Dogg,6.5
+Rango,Adventure|Animation|Comedy|Family|Western,Johnny Depp,0.079033076,0.232118387,Ray Winstone,7.2
+Penguins of Madagascar,Adventure|Animation|Comedy|Family,Benedict Cumberbatch,0.081952069,0.172403062,Annet Mahendru,6.7
+The Bourne Ultimatum,Action|Mystery|Thriller,Matt Damon,0.02784463,0.186998668,Edgar Ram ­rez,8.1
+Kung Fu Panda,Action|Adventure|Animation|Comedy|Family,Angelina Jolie Pitt,0.088215785,0.244781288,Wayne Knight,7.6
+Ant-Man,Action|Adventure|Comedy|Sci-Fi,Judy Greer,0.068845267,0.216564562,Hayley Atwell,7.4
+The Hunger Games: Catching Fire,Adventure|Sci-Fi|Thriller,Jennifer Lawrence,-0.190053364,0.403831634,Josh Hutcherson,7.6
+Home,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Jim Parsons,0.067155417,0.256086134,Matt Jones,6.7
+War of the Worlds,Adventure|Sci-Fi|Thriller,Tom Cruise,0.067965184,0.266543649,Lisa Ann Walter,6.5
+Bad Boys II,Action|Comedy|Crime|Thriller,Will Smith,-0.444770653,0.58747706,Henry Rollins,6.6
+Puss in Boots,Action|Adventure|Animation|Comedy|Family|Fantasy,Salma Hayek,0.022023318,0.198398432,Constance Marie,6.7
+Salt,Action|Crime|Mystery|Thriller,Angelina Jolie Pitt,0.095667655,0.261770655,Andre Braugher,6.4
+Noah,Action|Adventure|Drama,Anthony Hopkins,0.067222457,0.213527507,Emma Watson,5.8
+The Adventures of Tintin,Action|Adventure|Family|Mystery,Toby Jones,0.083110093,0.205569751,Mackenzie Crook,7.4
+Harry Potter and the Prisoner of Azkaban,Adventure|Family|Fantasy|Mystery,Daniel Radcliffe,0.109265365,0.212662977,Gary Oldman,7.8
+Australia,Adventure|Drama|Romance|War,Essie Davis,0.045776953,0.210410886,Bryan Brown,6.6
+After Earth,Action|Adventure|Sci-Fi,Will Smith,0.073962251,0.245163659,Zo  Kravitz,4.9
+Harry Potter and the Deathly Hallows: Part II,Action|Fantasy,Rupert Grint,0.030952381,0.096785714,Dave Legeno,7.5
+Jeena Isi Ka Naam Hai,Drama,Arbaaz Khan||Ashutosh Rana|Manjari Fadnnis|Prem Chopra|Rati Agnihotri|Supriya Pathak|Aayam Mehta|Hannah Panneriy|Roma Bali|Ashok Banthia|Raju Kher|Poonam Labana|Bhanu Pratap Singh|,0.466666667,0.225,Himansh Kohli,5.6
+Badrinath Ki Dulhania,Comedy|Drama|Romance,Varun Dhawan||Sahil Vaid|Swanand Kirkire|Rituraj Singh|Yash Sinha|Rajendra Sethi|Brahma Mishra|Shweta Basu Prasad|Leena Prabhu|Kanupriya Pandit|Sukhmani Lamba|Akansha Singh|Gauhar Khan|,0.203125,0.303395563,Alia Bhatt,6.2
+Trapped,Action|Drama|Thriller,Rajkummar Rao||Shiladitya Sen|Rahul Patel|Rahul Dutta|Vishwas|Girish|Malay Garg|Rajiv Khanna|Yogendra Vikram Singh|Patrick Graham|Hardik Mehta|Vivek Soni|Anup Rupanwar|,0.026315227,0.246672325,Geetanjali Thapa,7.5
+Aa Gaya Hero,Action,Govinda||Poonam Pandey|Sweta Sharma|Chandrachur Singh|Makrand Deshpande|,0.066666667,0.216666667,Richa Sharma,2.9
+Sarkar 3,Action|Crime|Drama,Amitabh Bachchan||Abhishek Bachchan|Jackie Shroff|Manoj Bajpayee|Amit Sadh|Rohini Hattangadi|Ronit Roy|Supriya Pathak|Bharat Dabholkar|Parag Tyagi|Bajrangbali Singh|,0.033453011,0.199193752,Yami Gautam,4.9
+Jattu Engineer,Comedy,Amardeep Insan||Divya Insan|Ishwar Insan|Jaswinder Insan|Manoj Insan|Rajesh Insan|Rakesh Insan|Raman Insan|Randhir Insan|Satish Insan|Satyawan Insan|Sukhottam Insan|Vishu Insan|,0.175,0.175,Ashok Insan,6
+Half Girlfriend,Drama|Romance,Shraddha Kapoor||Arjun Kapoor|Vikrant Massey|Rhea Chakraborty|Greg Kriek|Anisa Butt|Carishma Basday|Seema Biswas|Paula McGlynn|Adam Davenport|Vikas Mandaliya|Aaron Latta-Morissette|Hugo Salazar Jr.|,-0.044335478,0.267939294,Dalip Sondhi,4.3
+Meri Pyaari Bindu,Comedy|Drama|Romance,Ayushmann Khurrana||Anirban Chakraborty|Malvika Sitlani|Nishant Dahiya|Chandrachoor Rai|Prakash Belawadi|Amrita Bagchi|Aarnaa Sharma|Rajatabha Dutta|Kharaj Mukherjee|Abish Mathew|June Malia|Aparajita Adhya|,0.155406746,0.321279762,Parineeti Chopra,5.8
+Sachin,Documentary|Sport,Sachin Tendulkar||Mayuresh Pem|,0.080660372,0.161567198,Mayur More,8.6
+Hindi Medium,Comedy|Drama,Irrfan Khan||Dishita Sehgal|Deepak Dobriyal|Swati Das|Amrita Singh|Sumit Gulati|Angshuman Nandi|Neha Dhupia|Sahani|Arha Mahajan|Shiva Kumar|Sachin Kumar|Kiran Khoje|,0.089350106,0.202616317,Saba Qamar,7.8
+Welcome Back,Action|Comedy|Crime,Anil Kapoor||Dimple Kapadia|John Abraham|Shruti Haasan|Shiney Ahuja|Paresh Rawal|Naseeruddin Shah|,0.070150648,0.117600437,Nana Patekar,4.2
+Baby,Action|Thriller,Akshay Kumar|Danny Denzongpa||Taapsee Pannu|Anupam Kher|Kay Kay Menon|Sushant Singh|Madhurima Tuli|Mikaal Zulfiqar|Hasan Noman|Rasheed Naz|Kerem Sarikaya|Zachary Coffin|,0.102397808,0.247938836,Rana Daggubati,8
+Flat 211,Crime|Mystery|Thriller,Jayesh Raj|Sonal Singh||Digvijay Singh|Danish Kohli|Gautam Vig|Arif Bhaldar|Rahul Taneja|Pooja Gajria|Shailesh Upadhyay|Moumita Moitra|Piya Bhatnagar|Ravi Kaiwart|Jai Soni|,-0.3625,0.395833333,Samonica Shrivastava,5.9
+Dear Maya,Drama|Romance,Manisha Koirala||Shreya Chaudhary|,0.124098406,0.214920691,Madiha Imam,5.2
+Raabta,Action|Adventure|Drama,Deepika Padukone|Kriti Sanon||Rajkummar Rao|Varun Sharma|Jim Sarbh|Vikas Verma|Karan Singh Chhabra|Suneel Sinha|Manpreet Toor|Rina Fatania|Nidhi Subbaiah|Rachita Singh|Jashan Singh Kohli|,0.067837225,0.192425155,Sushant Singh Rajput,4.1
+Tubelight,Drama|War,Salman Khan|Sohail Khan||Mohammed Zeeshan Ayyub|Yashpal Sharma|Zhu Zhu|Matin Rey Tangu|Brijendra Kala|Isha Talwar|Jason D'Souza|Matt Kramer|Neeraj Khetarpal|Kapil Sharma|Mitansh Lulla|,0.034086479,0.167968463,Om Puri,4
+Bank Chor,Action|Comedy|Thriller,Riteish Deshmukh||Rhea Chakraborty|Sahil Vaid|Bhuvan Arora|Vikram Thapa|Vikram Gokhale|Upendra Limaye|Naveen Kaushik|Sandesh Kulkarni|Baba Sehgal|Ramakant Dayma|Harpal Singh Sokhi|Suresh Venkat|,-0.052438346,0.142180563,Vivek Oberoi,5.9
+Ek Haseena Thi Ek Deewana Tha,Drama,Shiv Darshan||Upen Patel|Lalit Tiwari|Krishan Tandon|Dimppy Ramdayal|Rumi Khan|Soni Kaur|,0.383928571,0.567261905,Natasha Fernandez,5
+Jagga Jasoos,Action|Adventure|Comedy,Ranbir Kapoor||Saswata Chatterjee|Chitrak Bandyopadhyay|Sayani Gupta|Saravajeet Tiwari|Nawazuddin Siddiqui|Mir Sarwar|Jimmeey Sirole|Saurabh Shukla|Yulian Caesar|Sarika Singh|Bijou Thaangjam|Denzil Smith|,0.132272727,0.267159091,Katrina Kaif,6.4
+Shab,Drama|Romance,Ashish Bisht||Areesz Ganddi|Gaurav Nanda|Arpita Pal|Raj Suri|Sanjay Suri|Raveena Tandon|,0.097771851,0.218930119,Simon Frenay,4.4
+Lipstick Under My Burkha,Drama,Aahana Kumra||Konkona Sen Sharma|Plabita Borthakur|,0.060227273,0.131060606,Ratna Pathak Shah,6.8
+Indu Sarkar,Drama|History|Thriller,Kirti Kulhari|Tota Roy Chowdhury||Ankur Vikal|Sheeba Chaddha|Parvin Dabas|Abhinav Sharma|Anupam Kher|Manav Vij|Rashmi Jha|Ganesh Kumar|Ishika Taneja|Bikramjeet Kanwarpal|Mujtaba Aziz Khan|,-0.15,0.2125,Neil Nitin Mukesh,6
+Jab Harry Met Sejal,Comedy|Drama|Romance,Shah Rukh Khan||BjÃ¶rn Freiberg|Martavious Gayles|Bruce Huther|Attila G. Kerekes|Christina Murphy|Daxesh Patel|Rana Ranbir|Chandan Roy Sanyal|Evelyn Sharma|Manjot Singh|Anjan Srivastav|Aru Krishansh Verma|,-0.001669372,0.187481061,Anushka Sharma,5.3
+Te3n,Drama|Mystery|Thriller,Amitabh Bachchan||Vidya Balan|Mukesh Chhabra|Aarnaa Sharma|Prakash Belawadi|Sabyasachi Chakrabarty|Suneel Sinha|Padmavati Rao|Tota Roy Chowdhury|Paritosh Sand|Anupam Bhattacharya|Sumit Samaddar|Madhumita Sen|,0.101488095,0.205654762,Nawazuddin Siddiqui,7.2
+Toilet - Ek Prem Katha,Comedy|Drama,Akshay Kumar||Sudhir Pandey|Divyendu Sharma|Anupam Kher|Atul Srivastava|Shubha Khote|,0.012599206,0.100396825,Bhumi Pednekar,7.2
+Mubarakan,Comedy|Romance,Anil Kapoor||Ileana D'Cruz|Athiya Shetty|Neha Sharma|Viineet Kumar|Pavan Malhotra|Ratna Pathak Shah|Karan Kundrra|Anil Charanjeett|Rahul Dev|Monisha Hassen|Gurpal Singh|Mohit Chhabra|,0.273182957,0.278070175,Arjun Kapoor,5.6
+Babumoshai Bandookbaaz,Action|Crime|Thriller,Nawazuddin Siddiqui||Jatin Goswami|Shradha Das|Divya Dutta|Murli Sharma|Bhagwan Tiwari|Anita Sahgal|Naveen Tyagi|Sanjay Inamdar|Anil George|Simran Nisha|Jeetu Shivhare|,0.025,0.225,Bidita Bag,6.9
+Shubh Mangal Saavdhan,Comedy|Romance,Ayushmann Khurrana||Seema Bhargava|Anshul Chauhan|Brijendra Kala|Jimmy Sheirgill|Anmol Bajaj|,0.181373506,0.339708745,Bhumi Pednekar,6.9
+Raag Desh,Action|Drama|History,Kunal Kapoor||Mohit Marwah|Kenneth Desai|Mrudula Murali|Kanwaljit Singh|Kenny Basumatary|Vijay Varma|R. Bhakti Klein|,-0.055555556,0.207407407,Amit Sadh,8.3
+Daddy,Action|Biography|Crime,Arjun Rampal||Nishikant Kamat|Rajesh Shringarpore|Purnanand Wandekar|Anupriya Goenka|Shruti Bapna|Usha Naik|Shrikant Yadav|Deepak Damle|Raj Arjun|Vijay Sanap|Abhimanue Arun|,0.087665161,0.220713064,Aishwarya Rajesh,6.3
+Night at the Museum: Secret of the Tomb,Adventure|Comedy|Family|Fantasy,Robin Williams,-0.294628099,0.59214876,Rami Malek,6.2
+Megamind,Action|Animation|Comedy|Family|Sci-Fi,J.K. Simmons,0.072421455,0.216042648,Brad Pitt,7.3
+Harry Potter and the Sorcerer's Stone,Adventure|Family|Fantasy,Daniel Radcliffe,0.057913632,0.217196057,Fiona Shaw,7.5
+R.I.P.D.,Action|Comedy|Fantasy,Ryan Reynolds,0.033582376,0.143871898,Jeff Bridges,5.6
+Godzilla Resurgence,Action|Adventure|Drama|Horror|Sci-Fi,Mark Chinnery,0.13517316,0.361688312,Shin'ya Tsukamoto,8.2
+Pirates of the Caribbean: The Curse of the Black Pearl,Action|Adventure|Fantasy,Johnny Depp,-0.046140362,0.501466073,Orlando Bloom,8.1
+Harry Potter and the Deathly Hallows: Part I,Fantasy,Rupert Grint,0.129133598,0.209926146,Toby Jones,6.4
+The Hunger Games: Mockingjay - Part 1,Adventure|Sci-Fi|Thriller,Jennifer Lawrence,-0.339488636,0.417897727,Philip Seymour Hoffman,6.7
+The Da Vinci Code,Mystery|Thriller,Tom Hanks,0.04860811,0.206203658,Seth Gabel,6.6
+Rio 2,Adventure|Animation|Comedy|Family|Musical,Miguel Ferrer,0.092346629,0.270592415,Rachel Crow,6.4
+X-Men 2,Action|Adventure|Fantasy|Sci-Fi|Thriller,Hugh Jackman,0.032308936,0.292734769,Bruce Davison,7.5
+Fast Five,Action|Crime|Thriller,Paul Walker,0.152054478,0.479230139,Vin Diesel,7.3
+Sherlock Holmes: A Game of Shadows,Action|Adventure|Crime|Mystery|Thriller,Robert Downey Jr.,-0.239962121,0.377462121,Eddie Marsan,7.5
+Clash of the Titans,Action|Adventure|Fantasy,Liam Neeson,0.060917884,0.179420944,Jason Flemyng,5.8
+Total Recall,Action|Sci-Fi,Ronny Cox,0.031000878,0.582591075,Rachel Ticotin,7.5
+The 13th Warrior,Action|Adventure|History,Tony Curran,0.013798942,0.194755102,Vladimir Kulich,6.6
+Simran,Crime|Drama|Thriller,Kangana Ranaut||Esha Tewari|Jason Louder|Aneesha Joshi|Mark Justice|Rupinder Nagra|Catherine Dyer|James Cole|Robin Dyke|Alexander Garganera|Timothy Ryan Hickernell|Manda Lee|Yajhayra Maria|,0.063571935,0.231285696,Sohum Shah,5.3
+Lucknow Central,Action|Drama|Music,Farhan Akhtar||Inaamulhaq|Ronit Roy|Gippy Grewal|Deepak Dobriyal|Rajesh Sharma|,0.018041526,0.203245417,Diana Penty,6.2
+A Gentleman,Action|Comedy,Sidharth Malhotra||Darshan Kumaar|Hussain Dalal|Amit Mistry|Rajit Kapoor|Supriya Pilgaonkar|Sunil Shetty|Shaheed K. Woods|Zachary Coffin|Kushal Punjabi|,0.113109309,0.284712883,Jacqueline Fernandez,6.3
+Viceroy's House,Biography|Drama|History,Hugh Bonneville||Manish Dayal|Huma Qureshi|Michael Gambon|Om Puri|David Hayman|Simon Callow|Denzil Smith|Neeraj Kabi|Tanveer Ghani|Lily Travers|Jaz Deol|Arunoday Singh|,0.0875,0.27037037,Gillian Anderson,6.7
+Patel Ki Punjabi Shaadi,Comedy,Rishi Kapoor||Vir Das|Payal Ghosh|Divya Seth|Bharti Achrekar|Jinal Belani|Prem Chopra|Shilpa Shinde|Daya Shankar Pandey|Karanvir Bohra|Teejay Sidhu|,0.4,0.4,Paresh Rawal,3.9
+Newton,Drama,Rajkummar Rao||Anjali Patil|Raghuvir Yadav|,0.044975892,0.198916277,Pankaj Tripathi,7.7
+The Final Exit,Horror,Kunaal Roy Kapur||Elena Kazan|Reyhna Malhotra|Ananya Sengupta|Archana Shastry|,0.042633984,0.534030505,Mukesh Hariawala,6.2
+Haraamkhor,Drama|Romance,Nawazuddin Siddiqui||Trimala Adhikari|Irfan Khan|Mohammad Samad|Harish Khanna|,0.111466165,0.164390142,Shweta Tripathi,6.4
+Poster Boys,Comedy,Sunny Deol||Shreyas Talpade|Randheer Rai|,0.08514126,0.283783095,Bobby Deol,5.5
+Mom,Crime|Drama|Thriller,Sridevi||Sajal Ali|Adnan Siddiqui|Abhimanyu Singh|Nawazuddin Siddiqui|Pitobash|Vikas Verma|Adarsh Gourav|Riva Arora|Yuvraj Singh Bajwa|,0.062377478,0.30451728,Akshaye Khanna,7.3
+Chef,Comedy|Drama|Family,Saif Ali Khan|Padmapriya|Svar Kamble|Chandan Roy Sanyal|Dinesh P. Nair||Sobhita Dhulipala|Ram Gopal Bajaj|Pawan Chopra|Avtaar Singh Sahani|Vikraman Nair|Ramachandran P.P.|M. Gopalakrishnan|Jayan Cherthala|,0.090321895,0.216900881,Milind Soman,5.7
+Rukh,Drama|Mystery,Manoj Bajpayee||Adarsh Gourav|Subhrajyoti Barat|Ahsaas Channa|Bhushan Vikas|Sandesh Kulkarni|Pawan Singh|,0.048713277,0.243612267,Smita Tambe,6.4
+Batman & Robin,Action,Michael Gough,0.066265303,0.206724358,Vivica A. Fox,3.7
+How the Grinch Stole Christmas,Comedy|Family|Fantasy,Clint Howard,0.078391545,0.163957814,T.J. Thyne,6
+The Day After Tomorrow,Action|Adventure|Sci-Fi|Thriller,Jake Gyllenhaal,0.050655072,0.221888484,Dennis Quaid,6.4
+Mission: Impossible II,Action|Adventure|Thriller,Tom Cruise,0.050275157,0.280538085,Dougray Scott,6.1
+The Perfect Storm,Action|Adventure|Drama|Thriller,Karen Allen,0.559098381,0.673452393,Mary Elizabeth Mastrantonio,6.4
+Fantastic 4: Rise of the Silver Surfer,Action|Adventure|Sci-Fi|Thriller,Chris Evans,-0.175,0.4,Ioan Gruffudd,5.6
+Life of Pi,Adventure|Drama|Fantasy,Suraj Sharma,0.048410392,0.207612206,Rafe Spall,8
+Ghost Rider,Action|Fantasy|Thriller,Nicolas Cage,0.064090656,0.181682739,Matt Long,5.2
+Jason Bourne,Action|Thriller,Matt Damon,0.04439442,0.170026805,Riz Ahmed,7.1
+Charlie's Angels: Full Throttle,Action|Adventure|Comedy|Crime,Demi Moore,0.297891445,0.52797619,Bernie Mac,4.8
+Prometheus,Adventure|Mystery|Sci-Fi,Michael Fassbender,0.004393524,0.037001359,Charlize Theron,7
+Stuart Little 2,Adventure|Animation|Comedy|Family|Fantasy,Nathan Lane,0.05843259,0.199930906,Brad Garrett,5.4
+Elysium,Action|Drama|Sci-Fi|Thriller,Matt Damon,0.061733698,0.270653193,Sharlto Copley,6.6
+The Chronicles of Riddick,Action|Adventure|Sci-Fi|Thriller,Vin Diesel,0.009353312,0.324685202,Alexa Davalos,6.7
+RoboCop,Action|Crime|Sci-Fi|Thriller,Gary Oldman,0.081687162,0.284856421,Abbie Cornish,6.2
+Speed Racer,Action|Family|Sport,Scott Porter,0.082909789,0.245610712,Kick Gurry,6.1
+How Do You Know,Comedy|Drama|Romance,Shelley Conn,0.04246057,0.255515638,Domenick Lombardozzi,5.3
+Knight and Day,Action|Comedy|Romance,Tom Cruise,0.077599427,0.317244675,Marc Blucas,6.3
+Oblivion,Action|Adventure|Mystery|Sci-Fi,Morgan Freeman,0.020542888,0.213244762,Tom Cruise,7
+Star Wars: Episode III - Revenge of the Sith,Action|Adventure|Fantasy|Sci-Fi,Natalie Portman,0.035693043,0.116477124,Christopher Lee,7.6
+Star Wars: Episode II - Attack of the Clones,Action|Adventure|Fantasy|Sci-Fi,Natalie Portman,0.082465818,0.139418513,Christopher Lee,6.7
+Monsters| Inc.,Adventure|Animation|Comedy|Family|Fantasy,Steve Buscemi,0.072248999,0.198501476,John Ratzenberger,8.1
+The Wolverine,Action|Adventure|Sci-Fi|Thriller,Hugh Jackman,0.081410452,0.261318166,Tao Okamoto,6.7
+Star Wars: Episode I - The Phantom Menace,Action|Adventure|Fantasy|Sci-Fi,Natalie Portman,0.017354146,0.132808691,Liam Neeson,6.5
+The Croods,Adventure|Animation|Comedy|Family|Fantasy,Ryan Reynolds,0.055985189,0.218320431,Emma Stone,7.3
+Secret Superstar,Drama|Music,Zaira Wasim||Raj Arjun|Aamir Khan|Tirth Sharma|Kabir Sajid|Farrukh Jaffar|Manuj Sharma|Nikita Anand|Shaan|Monali Thakur|Mona Ambegaonkar|Jasmeet Singh Bhatia|Dianne Commissariat|,-0.170730535,0.559139289,Meher Vij,7.9
+The House Next Door,Horror,Prakash Belawadi||Andrea Jeremiah|Atul Kulkarni|Avinash Raghudevan|Siddharth|Suresh|Anisha Victor|,0.04055413,0.214520973,Khushi Hajare,6.8
+Ribbon,Drama|Family,Kalki Koechlin||,0.049539065,0.234829008,Sumeet Vyas,6.9
+Shaadi Mein Zaroor Aana,Drama|Family|Romance,Rajkummar Rao||K.K. Raina|Alka Amin|Vipin Sharma|Govind Namdev|Navni Parihar|Nayani Dixit|Manoj Pahwa|Neha d Bhriguvanshi|Karanvir Sharma|Abhijeet Singh|Ashish Kapoor|,0.533333333,0.466666667,Kriti Kharbanda,7.6
+Roy,Action|Drama|Mystery,Arjun Rampal||Ranbir Kapoor|Barun Chanda|,0.065742063,0.228386078,Jacqueline Fernandez,3.3
+Tevar,Action|Drama|Romance,Arjun Kapoor||Manoj Bajpayee|Deepti Naval|Raj Babbar|Shruti Haasan|,0.140550239,0.24254386,Sonakshi Sinha,4.1
+Firangi,Comedy|Drama,Kapil Sharma||Monica Gill|Edward Sonnenblick|Kumud Mishra|Anjan Srivastav|Inaamulhaq|Rajesh Sharma|Jameel Khan|Jatinder Kaur|Vishal Om Prakash|Roshni Walia|Naisha Khanna|Sharan Makkar|,0.016781101,0.217235193,Ishita Dutta,4.5
+Fukrey Returns,Comedy,Pulkit Samrat||Ali Fazal|Varun Sharma|Priya Anand|Vishakha Singh|Pankaj Tripathi|Richa Chadha|,0.5,0.6,Manjot Singh,6.5
+Monsoon Shootout,Action|Crime|Drama,Vijay Varma||Neeraj Kabi|Geetanjali Thapa|Farhan Mohammad Hanif Shaikh|Tannishtha Chatterjee|Sreejita De|R. Balasubramaniam|Iravati Harshe|Omkar Das Manikpuri|Jayant Gadekar|Prithvi Zutshi|Surya Mohan Kulshreshtha|Niranjan N. Asrani|,0.208333333,0.491666667,Nawazuddin Siddiqui,6.5
+Ajji,Drama,Sushama Deshpande||Sharvani Suryavanshi|Abhishek Banerjee|Sadiya Siddiqui|Sudhir Pandey|Vikas Kumar|Manuj Sharma|,0.108291408,0.21205177,Smita Tambe,7
+Chalk N Duster,Drama,Richa Chadha|,0.1,0.225,Rischa Chadha,6.5
+Rebellious Flower,Biography|Drama,Prince Shah||Mantra|Shaneel Sinha|,-0.211111111,0.444444444,Shashank Singh,6.8
+Shackle,Drama,Tanima Bhattacharya||Harish Hariaudh|Jagat Singh|Samarth Shandilya|,0.064409272,0.24247389,Chetan Sharma,7.4
+Windtalkers,Action|Drama|War,Nicolas Cage,0.00778047,0.091136085,Roger Willie,6
+The Huntsman: Winter's War,Action|Adventure|Drama|Fantasy,Chris Hemsworth,0.162878788,0.410984848,Sam Claflin,6.1
+Teenage Mutant Ninja Turtles,Action|Adventure|Comedy|Sci-Fi,Noel Fisher,0.055611152,0.252816194,Danny Woodburn,5.9
+Gravity,Adventure|Drama|Sci-Fi|Thriller,Phaldut Sharma,0.055438324,0.188562598,Basher Savage,7.8
+Dante's Peak,Action|Adventure|Thriller,Jamie Ren ©e Smith,0.118979012,0.268382405,Grant Heslov,5.8
+Fantastic Four,Action|Adventure|Sci-Fi,Tim Blake Nelson,0.088290462,0.292929567,Reg E. Cathey,4.3
+Night at the Museum,Action|Adventure|Comedy|Family|Fantasy,Robin Williams,0.040400984,0.202419114,Rami Malek,6.4
+San Andreas,Action|Adventure|Drama|Thriller,Dwayne Johnson,0.054335577,0.186075565,Ioan Gruffudd,6.1
+Tomorrow Never Dies,Action|Adventure|Thriller,Vincent Schiavelli,0.085002761,0.233020704,Colin Salmon,6.5
+The Patriot,Action|Drama|History|War,Heath Ledger,0.061596514,0.256580985,Adam Baldwin,7.1
+Ocean's Twelve,Crime|Thriller,Brad Pitt,0.103837768,0.205297795,Julia Roberts,6.4
+Mr. & Mrs. Smith,Action|Comedy|Crime|Romance|Thriller,Brad Pitt,0.085002189,0.221466653,Angelina Jolie Pitt,6.5
+Insurgent,Adventure|Sci-Fi|Thriller,Kate Winslet,0.050709559,0.212055089,Theo James,6.3
+The Aviator,Biography|Drama,Leonardo DiCaprio,0.08182242,0.241078426,Adam Scott,7.5
+Gulliver's Travels,Adventure|Comedy|Family|Fantasy,James Corden,0.072250813,0.189079444,Catherine Tate,4.9
+The Green Hornet,Action|Comedy|Crime|Sci-Fi|Thriller,Christoph Waltz,-0.08724153,0.337609976,Tom Wilkinson,5.8
+The A-Team            ,Action|Adventure|Crime,George Peppard,0.069406574,0.215247426,Dirk Benedict,7.6
+300: Rise of an Empire,Action|Drama|Fantasy|War,Eva Green,0.016518703,0.144205729,Sullivan Stapleton,6.2
+The Smurfs,Adventure|Animation|Comedy|Family|Fantasy,Mahadeo Shivraj,0.031535433,0.264246791,Tim Gunn,5.5
+Home on the Range,Animation|Comedy|Family|Music|Western,Steve Buscemi,0.055322589,0.224440447,Roseanne Barr,5.4
+Airlift,Drama|History,Akshay Kumar||Kumud Mishra|Prakash Belawadi|Inaamulhaq|Lena|Nissar Khan|Ninad Kamat|Kaizaad Kotwal|Feryna Wazheir|Ajay Kumar|Purab Kohli|Gunjan Malhotra|Pooja Nair|,0.060261975,0.15732931,Nimrat Kaur,8
+Badlapur,Action|Crime|Drama,Varun Dhawan||Yami Gautam|Huma Qureshi|Neel Tyagi|Vinay Pathak|Radhika Apte|Pratima Kazmi|Divya Dutta|Kumud Mishra|Ashwini Kalsekar|Murli Sharma|Gopal K. Singh|Zakir Hussain|,0.073867185,0.182553107,Nawazuddin Siddiqui,7.4
+Kyaa Kool Hain Hum 3,Comedy,Tusshar Kapoor||Krishna Abhishek|Mandana Karimi|Shakti Kapoor|Darshan Jariwala|Sushmita Mukherjee|Meghna Naidu|Anand Vijay Kumar|Claudia Ciesla|Gizele Thakral|Danny Sura|Jimmy Moses|Gauhar Khan|,-0.4,0.6,Aftab Shivdasani,1.9
+Mastizaade,Comedy,Tusshar Kapoor||Sunny Leone|Asrani|Shaad Randhawa|Suresh Menon|Sushmita Mukherjee|Riteish Deshmukh|Harshada Kulkarni|Rina Charaniya|Vivek Vaswani|Karan Dewani|Kurush Deboo|Munish Makhija|,0.111926212,0.313427713,Vir Das,2.3
+Ghayal Once Again,Action|Drama,Sunny Deol||Om Puri|Aanchal Munjal|Narendra Jha|Manoj Joshi|Ramesh Deo|Tisca Chopra|Harsh Chhaya|Nadira Babbar|Rishabh Arora|Ruhanika Dhawan|Zakir Hussain|Sebastien Vandenberghe|,0.175,0.15,Soha Ali Khan,6.4
+Fitoor,Drama|Romance,Aditya Roy Kapoor||Tabu|Rahul Bhat|Lara Dutta|,0.095133678,0.185393418,Katrina Kaif,5.4
+Sanam Re,Drama|Romance,Rishi Kapoor||Yami Gautam|Urvashi Rautela|Neel Tyagi|Delissa Mehra|Navya|Devansh Sharma|Anita Khosla|Prachee Shah Paandya|Ashish Kaul|Dayal|Shashwita Sharma|S.K. Batra|,0.067811355,0.132936508,Pulkit Samrat,3.1
+Jai Jawaan Jai Kisaan,Biography|Drama|History,Rati Agnihotri||Rishi Bhutani|Prem Chopra|Imran Hasnee|Jatin Khurana|Avinash Kumar|,0.034090909,0.113636364,Kanchan Awasthi,5.4
+LoveShhuda,Comedy|Romance,Girish Taurani||Tisca Chopra|Naveen Kasturia|Sachin Khedekar|Benaf Dadachandji|Yash Pandit|,0.375,0.675,Navneet Kaur Dhillon,4.4
+Neerja,Biography|Drama|Thriller,Sonam Kapoor||Yogendra Tiku|Abrar Zahoor|Jim Sarbh|Ali Baldiwala|Vikrant Singta|Parthaa Akerkar|Madhu Anand Chandhock|,0.086376566,0.190227543,Shabana Azmi,7.7
+Aligarh,Biography|Drama,Sukhesh Arora||Balaji Gauri|Sumit Gulati|Dilnaz Irani|Sachin Parikh|K.R. Parmeshwar|Rajkummar Rao|Naval Shukla|Ishwak Singh|Nutan Surya|Divya Unny|Suman Vaidya|,0.047041031,0.123998963,Manoj Bajpayee,7.8
+Bollywood Diaries,Drama,Raima Sen||Ashish Vidyarthi|Karuna Pandey|Viineet Kumar|Robin Das|,0.030226481,0.150813008,Salim Diwan,6
+Allegiant,Action|Adventure|Mystery|Sci-Fi|Thriller,Naomi Watts,0.035014677,0.231082717,Theo James,5.8
+Real Steel,Action|Drama|Sci-Fi|Sport,Hugh Jackman,0.131403088,0.332073431,Torey Michael Adkins,7.1
+The Smurfs 2,Adventure|Animation|Comedy|Family|Fantasy,Jacob Tremblay,0.024036417,0.182823853,Nancy O'Dell,5.4
+Speed 2: Cruise Control,Action|Crime|Romance|Thriller,Jason Patric,0.0802953,0.267998222,Temuera Morrison,3.7
+Ender's Game,Action|Sci-Fi,Harrison Ford,-0.149272722,0.409765921,Moises Arias,6.7
+Live Free or Die Hard,Action|Adventure|Thriller,Bruce Willis,0.074894183,0.571025069,Jonathan Sadowski,7.2
+The Lord of the Rings: The Fellowship of the Ring,Action|Adventure|Drama|Fantasy,Christopher Lee,0.063222234,0.199319657,Orlando Bloom,8.8
+Around the World in 80 Days,Action|Adventure|Comedy,Jim Broadbent,0.057251132,0.205737318,Steve Coogan,5.8
+Love Shagun,Comedy|Romance,Anuj Sachdeva||Manit Joura|Simpy Singh|Shamin Mannan|Vikram Kochhar|Taran Bajaj|Jameel Khan|Jaswinder Kaur|Rajat Ganguly|Swastika Chakraborty|Anurag Sharma|Saandesh Nayak|Ravi Khemu|,0.488210868,0.450717039,Nidhi Subbaiah,5.8
+Tere Bin Laden: Dead Or Alive,Comedy,Parthaa Akerkar||Vikrant Chaturvedi|Iman Crosson|Sugandha Garg|Kunal Gupta|Noel Jacobson|Rohan Khatri|Sikander Kher|Birbal Khosla|Vaibhav Mathur|Piyush Mishra|Jiten Mukhi|Bachan Pachehra|,0.183333333,0.583333333,Krishna Bansal,4.3
+Hawaizaada,Biography|Drama,Naman Jain|,0.169963925,0.291028139,Naman Jain,5.5
+Rocky Handsome,Action|Thriller,John Abraham||Sharad Kelkar|Teddy Maurya|Diya Chalwad|Kazu Patrick Tang|Shruti Haasan|Prashanti Talpankar|Nathalia Kaur|Paromita Chatterjee|Akanksha Awasthi|Viren Vajpayee|Vansh Sanghani|Jayant Sawarkar|,0.091735969,0.161551917,Nishikant Kamat,6.8
+Baaghi,Action|Thriller,Shraddha Kapoor||Sudheer Babu Posani|Paras Arora|,0.096492098,0.201143937,Tiger Shroff,5.2
+Global Baba,Thriller,Pankaj Tripathi||Ravi Kishan|Abhimanyu Singh|Leena Balodi|Vishwa Bhanu|,0.024274739,0.107772087,Sandeepa Dhar,5.6
+Shortcut Safari,Adventure|Drama|Mystery,Jimmy Sheirgill|,0.014772727,0.149242424,Jimmy shergill,6.1
+Ali,Biography|Drama|Sport,Will Smith,0.078782076,0.189138548,Jada Pinkett Smith,6.8
+The Cat in the Hat,Adventure|Comedy|Family|Fantasy,Sean Hayes,0.05035443,0.233229731,Kelly Preston,3.8
+I| Robot,Action|Mystery|Sci-Fi|Thriller,Will Smith,0.044640773,0.292549,Bruce Greenwood,7.1
+Kingdom of Heaven,Action|Adventure|Drama|History|War,Liam Neeson,0.04811828,0.175,Orlando Bloom,7.2
+Stuart Little,Adventure|Comedy|Family|Fantasy,Chazz Palminteri,0.018830297,0.176238459,Nathan Lane,5.9
+The Princess and the Frog,Animation|Family|Fantasy|Musical|Romance,Oprah Winfrey,0.125190811,0.196157117,Jenifer Lewis,7.1
+The Martian,Adventure|Drama|Sci-Fi,Matt Damon,0.106818169,0.284906087,Donald Glover,8.1
+10|000 B.C.            ,Comedy,Mathew Buck,0.014932001,0.181347735,Unknown,7.2
+The Blueberry Hunt,Action|Thriller,Kartik Elangovan||Aahana Kumra|P.T. Manoj|Yadu Sankalia|Naseeruddin Shah|Vipin Sharma|Sridevi|Tippu|,0.063333333,0.236666667,Vinay Forrt,5.7
+Khamoshiyan,Drama|Horror|Romance,Gurmeet Choudhary||Sapna Pabbi|Debina Choudhary|,0.099100899,0.116589892,Ali Fazal,4
+1920 London,Horror|Mystery,Sharman Joshi|Meera Chopra||Surendra Pal|Charu Rohatgi|Sushmita Mukherjee|Siraj Mustafa|Jalpa Bhatt|Jagat Rawat|Vishal Malhotra|Dinesh Mehta|Kamal Adib|Jyoti Chudasma|Mansi|,0.060627401,0.203901337,Vishal Karwal,4.1
+Azhar,Biography|Drama|Sport,Emraan Hashmi|Nargis Fakhri|Prachi Desai|Lara Dutta||Gautam Gulati|Sammy John Heaney|Mohit Chhabra|Anikie Maguire|Kulbhushan Kharbanda|Rajesh Sharma|Hemant Chaudhary|Shernaz Patel|Virendra Saxena|,0.077048166,0.229325007,Kunaal Roy Kapur,5.8
+Buddha in a Traffic Jam,Crime|Thriller,Aanchal Dwivedi|Mahie Gill|Pallavi Joshi||Arunoday Singh|Gopal K. Singh|,0.060590278,0.318229167,Anupam Kher,6.8
+Rahasya,Mystery|Thriller,Kay Kay Menon|Ashish Vidyarthi||Mita Vasisht|Ashwini Kalsekar|Kakar Vinit|Jitendra Barsiwal|Farida Dadi|Ramesh Deo|Usha Jadhav|Bikramjeet Kanwarpal|Murari Kumar|Aarush Maurya|Nimai Bali|,0.124428529,0.205244886,Tisca Chopra,7.6
+The Island,Action|Adventure|Romance|Sci-Fi|Thriller,Scarlett Johansson,0.07078089,0.283513515,Steve Buscemi,6.9
+Town & Country,Comedy|Romance,Del Zamora,0.045829521,0.256949241,Warren Beatty,4.4
+Gone in Sixty Seconds,Action|Crime|Thriller,Nicolas Cage,0.046984127,0.123543651,Angelina Jolie Pitt,6.5
+Gladiator,Action|Drama|Romance,Djimon Hounsou,0.159740274,0.320332062,Connie Nielsen,8.5
+Minority Report,Action|Mystery|Sci-Fi|Thriller,Tom Cruise,0.002614715,0.278260927,Frank Grillo,7.7
+Harry Potter and the Chamber of Secrets,Adventure|Family|Fantasy|Mystery,Daniel Radcliffe,-0.250491963,0.613453919,Rupert Grint,7.4
+Mission Impossible III,Action,Tom Cruise,0.049048174048174055,0.08531468531468532,Angelina,1
